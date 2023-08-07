@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.petaverse.cloud',
+  url: 'http://docs.petaverse.cloud',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'fr'],
   },
 
   presets: [
@@ -98,6 +98,14 @@ const config = {
               {
                 label: 'Data Deletion Instructions',
                 to: '/docs/data-deletion-instructions',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/privacy-policy',
+              },
+              {
+                label: 'Terms of Service',
+                to: '/docs/terms-of-service',
               }
             ],
           },
@@ -132,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
