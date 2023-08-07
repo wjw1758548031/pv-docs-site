@@ -95,6 +95,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Data Deletion Instructions',
+                to: '/docs/data-deletion-instructions',
+              }
             ],
           },
           {
