@@ -93,19 +93,19 @@ const config = {
             items: [
               {
                 label: 'Petaverse Shop',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Petaverse Subscription Fees',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Shipping & Delivery',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Compare Devices',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
             ],
           },
@@ -114,15 +114,15 @@ const config = {
             items: [
               {
                 label: 'LIVE Tracking',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Activate Petority GPS',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Customer Service',
-                to: '/shop/petaverse-shop',
+                to: '/docs/privacy-policy',
               },
             ],
           },
