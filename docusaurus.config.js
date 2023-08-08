@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Petority',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The next generation of pet tracking',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -68,7 +68,7 @@ const config = {
         title: 'Petaverse Support',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/petaverse-logo.svg',
         },
         items: [
           {
