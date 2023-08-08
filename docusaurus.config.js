@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Petaverse Support',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -75,9 +75,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Products',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Support', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -88,6 +88,44 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'Petaverse Shop',
+            items: [
+              {
+                label: 'Petaverse Shop',
+                to: '/shop/petaverse-shop',
+              },
+              {
+                label: 'Petaverse Subscription Fees',
+                to: '/shop/petaverse-shop',
+              },
+              {
+                label: 'Shipping & Delivery',
+                to: '/shop/petaverse-shop',
+              },
+              {
+                label: 'Compare Devices',
+                to: '/shop/petaverse-shop',
+              },
+            ],
+          },
+          {
+            title: 'For existing customers',
+            items: [
+              {
+                label: 'LIVE Tracking',
+                to: '/shop/petaverse-shop',
+              },
+              {
+                label: 'Activate Petority GPS',
+                to: '/shop/petaverse-shop',
+              },
+              {
+                label: 'Customer Service',
+                to: '/shop/petaverse-shop',
+              },
+            ],
+          },
           {
             title: 'Docs',
             items: [
@@ -106,7 +144,7 @@ const config = {
               {
                 label: 'Terms of Service',
                 to: '/docs/terms-of-service',
-              }
+              },
             ],
           },
           {
@@ -140,13 +178,13 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-};
+}
 
 module.exports = config;
