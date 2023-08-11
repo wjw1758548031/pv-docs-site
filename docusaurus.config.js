@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es', 'fr'],
+    locales: ['en', 'fr'],
   },
 
   presets: [
@@ -62,10 +62,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Petaverse Support',
+        title: 'Petaverse Support Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/petaverse-logo.svg',
@@ -73,14 +78,29 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'productsSidebar',
             position: 'left',
             label: 'Products',
           },
-          { to: '/blog', label: 'Support', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'docSidebar',
+            sidebarId: 'petoritySidebar',
+            position: 'left',
+            label: 'Petority App',
+          },
+          { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            href: 'https://www.petaverse.cloud',
+            label: 'Back to Official',
+            position: 'right',
+          },
+          {
+            href: 'https://www.petaverse.cloud',
+            label: 'Store',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -93,19 +113,19 @@ const config = {
             items: [
               {
                 label: 'Petaverse Shop',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Petaverse Subscription Fees',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Shipping & Delivery',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Compare Devices',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
             ],
           },
@@ -114,15 +134,15 @@ const config = {
             items: [
               {
                 label: 'LIVE Tracking',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Activate Petority GPS',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Customer Service',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
             ],
           },
@@ -131,19 +151,19 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/products/intro',
               },
               {
                 label: 'Data Deletion Instructions',
-                to: '/docs/data-deletion-instructions',
+                to: '/docs/products/data-deletion-instructions',
               },
               {
                 label: 'Privacy Policy',
-                to: '/docs/privacy-policy',
+                to: '/docs/products/privacy-policy',
               },
               {
                 label: 'Terms of Service',
-                to: '/docs/terms-of-service',
+                to: '/docs/products/terms-of-service',
               },
             ],
           },
@@ -151,12 +171,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://facebook.com',
               },
               {
                 label: 'Twitter',
@@ -164,7 +180,7 @@ const config = {
               },
             ],
           },
-          {
+          /* {
             title: 'More',
             items: [
               {
@@ -176,7 +192,7 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
-          },
+          }, */
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd.`,
       },
