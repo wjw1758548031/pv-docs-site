@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'petaverse-cloud', // Usually your GitHub org/user name.
   projectName: 'pv-docs-site', // Usually your repo name.
-  deploymentBranch: 'docs',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
