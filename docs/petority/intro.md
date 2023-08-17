@@ -6,13 +6,13 @@ sidebar_position: 1
 **Petority is your ultimate companion for keeping a watchful eye on your beloved pets.**
 
 **This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.**
-#### [Always Close,Never Lost.Track your pet with a Tap!]() 
+#### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
 #### Download
-![App Store]()
+![App Store](/img/logo.svg)
 
 **Apple App Store (iOS)**
 
-![Google Play Store]()
+![Google Play Store](/img/logo.svg)
 
 **Google Play Store (Android)**
 ## App features:
@@ -20,7 +20,7 @@ sidebar_position: 1
 
 With the help of a strong GPS signal and reliable network coverage, you can easily track your pet's real-time location, regardless of how near or far they are from you.This feature gives you peace of mind, knowing exactly where your pet is at all times.
 
-![Map]()
+![Map](/img/logo.svg)
 
 **1. Interactive Map Interface**
 
@@ -28,11 +28,11 @@ Take advantage of the interactive map to set up virtual boundaries and track you
 
 + Use two fingers to tilt the map in 3D View!
 
-    ![3D View]() 
+    ![3D View](/img/logo.svg) 
 
 + Unlimited range and live mode updates every 10 seconds.
 
-    ![update]()  
+    ![update](/img/logo.svg)  
 
 It ensures you can easily pinpoint your pet's location and conveniently monitor your pet's movements in real time.
 
@@ -40,20 +40,20 @@ It ensures you can easily pinpoint your pet's location and conveniently monitor 
 
 Never worry about your pet wandering off again. Petority records your pet's movements and alerts you if they leave designated safe areas.
 
-![Click Recording]()
+![Click Recording](/img/logo.svg)
 
 ### Exercise Monitoring and Real-time Heart Rate Tracking
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and receive alerts if any irregularities are detected, helping you spot potential health issues early on.
 
 **1. Check whether they're getting sufficient exercise daily**
 
-![home-step]()
+![home-step](/img/logo.svg)
 
-![home-tracking]()
+![home-tracking](/img/logo.svg)
 
 **2. Monitor their heart rate in real-time and proactively detect potential signs of illness**
 
-![home-heart]()
+![home-heart](/img/logo.svg)
 
 ### Track Your Pet's Physical Well-being with Daily Observation
 Easily review your pet's health data by selecting the desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.
@@ -62,11 +62,11 @@ Easily review your pet's health data by selecting the desired time frame. You ca
 
 Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.
 
-![Health]()
+![Health](/img/logo.svg)
 
 **2. Heart Rate Indicators**
 
-![Heart-DWM]()
+![Heart-DWM](/img/logo.svg)
 
 Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:
 
@@ -78,7 +78,7 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 
 Keep tabs on your pet's activity levels by tracking their steps throughout the day.
 
-![Steps-DWM]()
+![Steps-DWM](/img/logo.svg)
 
 ### Alert
 **1. Instant Fence Alerts**
@@ -89,7 +89,7 @@ Receive instant notifications on your phone if your pet leaves these designated 
 
 The app will provide updates every **10** seconds until your pet returns to the safe area.
 
-![fence alert]()
+![fence alert](/img/logo.svg)
 
 **2. Stay Updated**
 
