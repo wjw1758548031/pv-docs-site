@@ -4,49 +4,47 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Before you buy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    href: '/docs/devices',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Find out more about the Petority Smart Tracker and learn how it can help
+        keep your pet health and safe.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Your Petority Device',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    href: '/docs/devices',
+    description: <>The first steps to begin monitoring your pet.</>,
   },
   {
-    title: 'Powered by React',
+    title: 'App features',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    href: '/docs/devices',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learn about all of the features and functions of the Petority Smart
+        Tracker app for awesome monitoring experience!
       </>
     ),
   },
-];
+]
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, href, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+      <div className='text--center'>
+        <Svg className={styles.featureSvg} role='img' />
       </div>
-      <div className="text--center padding-horiz--md">
+      <div className='text--center padding-horiz--md'>
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
     </div>
-  );
+  )
 }
 
 export default function HomepageFeatures() {

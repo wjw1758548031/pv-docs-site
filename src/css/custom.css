@@ -39,3 +39,20 @@
 .navbar__title {
   font-size: 20px;
 }
+
+h1, h2, h3, h4, h5 {
+  font-family: Candara, "Work Sans", "roboto", sans-serif
+}
+
+.footer__link-item {
+  font-size: 14px;
+}
+
+.footer__links {
+  margin-bottom: 8rem;
+}
+
+.footer__copyright {
+  font-size: 14px;
+  color: #606770;
+}

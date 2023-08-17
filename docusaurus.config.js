@@ -28,10 +28,10 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
-  },
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en', 'fr'],
+  // },
 
   presets: [
     [
@@ -63,14 +63,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
-        disableSwitch: true,
+        defaultMode: 'light',
+        //disableSwitch: true,
         respectPrefersColorScheme: false,
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Petaverse Support Site',
+        title: 'Support',
         logo: {
           alt: 'My Site Logo',
           src: 'img/petaverse-logo.svg',
@@ -78,9 +78,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'productsSidebar',
+            sidebarId: 'devicesSidebar',
             position: 'left',
-            label: 'Products',
+            label: 'Devices',
           },
           {
             type: 'docSidebar',
@@ -106,26 +106,26 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Petaverse Shop',
             items: [
               {
                 label: 'Petaverse Shop',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Petaverse Subscription Fees',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Shipping & Delivery',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Compare Devices',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
             ],
           },
@@ -134,15 +134,15 @@ const config = {
             items: [
               {
                 label: 'LIVE Tracking',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Activate Petority GPS',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Customer Service',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
             ],
           },
@@ -150,20 +150,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/products/intro',
-              },
-              {
                 label: 'Data Deletion Instructions',
-                to: '/docs/products/data-deletion-instructions',
+                to: '/docs/data-deletion-instructions',
               },
               {
                 label: 'Privacy Policy',
-                to: '/docs/products/privacy-policy',
+                to: '/docs/privacy-policy',
               },
               {
                 label: 'Terms of Service',
-                to: '/docs/products/terms-of-service',
+                to: '/docs/terms-of-service',
               },
             ],
           },
@@ -194,6 +190,13 @@ const config = {
             ],
           }, */
         ],
+        /* logo: {
+          alt: 'Petaverse Logo',
+          src: 'img/petaverse-logo.svg',
+          href: 'https://www.petaverse.cloud',
+          target: '_self',
+          height: 50,
+        }, */
         copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd.`,
       },
       prism: {
