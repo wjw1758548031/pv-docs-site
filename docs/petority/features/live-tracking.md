@@ -24,7 +24,7 @@ Once you're in the Map page, you'll be able to see your pets' current location o
 
 ### Monitor Movement
 
-![realtime tracking]()
+![realtime tracking](/img/logo.svg)
 
 The map will display your pets' movement in real-time, allowing you to track their path and activities.
 
@@ -36,7 +36,7 @@ The map will display your pets' movement in real-time, allowing you to track the
 + Immediate Alerts: 
     If your pets leave a designated safe zone, you'll receive instant alerts on your device, ensuring you can react promptly.
 
-    ![fence alert]()
+    ![fence alert](/img/logo.svg)
 
 + Enhanced Safety:
     Whether you're at home or away, you can have peace of mind knowing that you can track your pets and ensure their safety.
@@ -52,7 +52,7 @@ Make sure your device has a stable internet connection and access to GPS signals
 
 Petority offers an intelligent Auto Recall feature designed to make recalling and controlling your pets easier. No matter where you are, with a simple operation, you can establish a real-time voice connection with your pets to ensure their safe return.
 
-![recall]()
+![recall](/img/logo.svg)
 
 When you need to recall your pet, simply tap the appropriate button to establish a voice call with your pet through the app
 
