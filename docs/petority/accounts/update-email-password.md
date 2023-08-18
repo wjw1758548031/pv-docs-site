@@ -11,7 +11,7 @@ title: 'Update Email & Password'
 + Check your inbox and click the verification link to complete the account verification.
 + After entering the verification code on the password reset page, you can set a new email.
 
-![Update email]()
+![Update email](/img/logo.svg)
 
 ### FAQs
 #### What to do if i can't change the email address?
