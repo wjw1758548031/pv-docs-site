@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: Device Information 
+title: Docker & Tag Information 
 ---
 
-# Introduction to Petority Device Information 
+# Docker & Tag Information 
 
 **Petority offers a range of innovative devices designed to help you track and care for your beloved pets.**
 
