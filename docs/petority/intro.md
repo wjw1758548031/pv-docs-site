@@ -1,24 +1,16 @@
 ---
 sidebar_position: 1
+title: Intro
 ---
 
-***
-Introduce
-***
+**Petority is your ultimate companion for keeping a watchful eye on your beloved pets.Enhance Your Pet's Life with Petority's Comprehensive Services**
 
-# Enhance Your Pet's Life with Petority's Comprehensive Services
-**Petority is your ultimate companion for keeping a watchful eye on your beloved pets.**
+[Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
 
 **This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.**
-#### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
-#### Download
-![App Store](/img/logo.svg)
 
-**Apple App Store (iOS)**
+[Download](/docs/petority/getapp)
 
-![Google Play Store](/img/logo.svg)
-
-**Google Play Store (Android)**
 ## App features:
 ### Real-time Location Tracking and Monitoring
 
@@ -26,7 +18,7 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 ![Map](/img/logo.svg)
 
-**1. Interactive Map Interface**
+#### Interactive Map Interface
 
 Take advantage of the interactive map to set up virtual boundaries and track your pet's movement. You can even tilt the map in 3D view for a more immersive experience.
 
@@ -40,7 +32,7 @@ Take advantage of the interactive map to set up virtual boundaries and track you
 
 It ensures you can easily pinpoint your pet's location and conveniently monitor your pet's movements in real time.
 
-**2. Location Recording**
+#### Location Recording
 
 Never worry about your pet wandering off again. Petority records your pet's movements and alerts you if they leave designated safe areas.
 
@@ -49,26 +41,26 @@ Never worry about your pet wandering off again. Petority records your pet's move
 ### Exercise Monitoring and Real-time Heart Rate Tracking
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and receive alerts if any irregularities are detected, helping you spot potential health issues early on.
 
-**1. Check whether they're getting sufficient exercise daily**
+#### Check whether they're getting sufficient exercise daily
 
 ![home-step](/img/logo.svg)
 
 ![home-tracking](/img/logo.svg)
 
-**2. Monitor their heart rate in real-time and proactively detect potential signs of illness**
+#### Monitor their heart rate in real-time and proactively detect potential signs of illness
 
 ![home-heart](/img/logo.svg)
 
 ### Track Your Pet's Physical Well-being with Daily Observation
 Easily review your pet's health data by selecting the desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.
 
-**1. Comprehensive Health Insights**
+#### Comprehensive Health Insights
 
 Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.
 
 ![Health](/img/logo.svg)
 
-**2. Heart Rate Indicators**
+#### Heart Rate Indicators
 
 ![Heart-DWM](/img/logo.svg)
 
@@ -78,14 +70,14 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 + **Soothing Heart Rate** (<70 bpm) - Yellow
 + **Fierce Heart Rate** (>120 bpm) - Red
   
-**3. Track Your Pet's Steps**
+#### Track Your Pet's Steps
 
 Keep tabs on your pet's activity levels by tracking their steps throughout the day.
 
 ![Steps-DWM](/img/logo.svg)
 
 ### Alert
-**1. Instant Fence Alerts**
+#### Instant Fence Alerts
 
 Set up virtual fences to define safe areas for your pet. 
 
@@ -95,11 +87,11 @@ The app will provide updates every **10** seconds until your pet returns to the 
 
 ![fence alert](/img/logo.svg)
 
-**2. Stay Updated**
+#### Stay Updated3
 
 Petority keeps you in the loop by providing real-time alerts about your pet's battery status, app version updates, and more.
 
-## Conclusion
+### Conclusion
 Embrace the power of Petority to provide top-notch care for your pets. 
 
 This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy.
