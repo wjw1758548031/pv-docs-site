@@ -24,7 +24,6 @@ If you have tried all the mentioned steps and are still facing issues, you can t
 If you forget the password for the application, you can try the following solutions:
 
 ### 1.Password Reset:
-
 + Look for the **Forgot password** button near the login page. 
 + Click **Forgot password** and follow the prompts to reset your password.
 + A verification email will be sent to the email address you provided. Check your inbox and click the verification link to complete the account verification.
