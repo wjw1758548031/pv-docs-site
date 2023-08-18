@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: General Settingss
+title: Real-Time Heart Rate Monitoring
 ---
 
 # Real-Time Heart Rate Monitoring with Petority
