@@ -5,14 +5,14 @@ title: Intro
 
 **Petority is your ultimate companion for keeping a watchful eye on your beloved pets.Enhance Your Pet's Life with Petority's Comprehensive Services**
 
-### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
+#### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
 
 **This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.**
 
-### [Download](/docs/petority/getapp)
+#### [Download](/docs/petority/getapp)
 
 ## App features:
-### Real-time Location Tracking and Monitoring
+### [Real-time Location Tracking and Monitoring](/docs/petority/features/live-tracking)
 
 With the help of a strong GPS signal and reliable network coverage, you can easily track your pet's real-time location, regardless of how near or far they are from you.This feature gives you peace of mind, knowing exactly where your pet is at all times.
 
@@ -38,7 +38,7 @@ Never worry about your pet wandering off again. Petority records your pet's move
 
 ![Click Recording](/img/logo.svg)
 
-### Exercise Monitoring and Real-time Heart Rate Tracking
+### [Exercise Monitoring and Real-time Heart Rate Tracking](/docs/petority/features/Real-Time%20Heart%20Rate%20Monitoring)
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and receive alerts if any irregularities are detected, helping you spot potential health issues early on.
 
 **1. Check whether they're getting sufficient exercise daily**
@@ -51,7 +51,7 @@ Ensure your pet's health by monitoring their daily exercise routines. Track thei
 
 ![home-heart](/img/logo.svg)
 
-### Track Your Pet's Physical Well-being with Daily Observation
+### [Track Your Pet's Physical Well-being with Daily Observation](/docs/petority/features/health-monitoring)
 Easily review your pet's health data by selecting the desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.
 
 **1. Comprehensive Health Insights**
@@ -76,7 +76,7 @@ Keep tabs on your pet's activity levels by tracking their steps throughout the d
 
 ![Steps-DWM](/img/logo.svg)
 
-### Alert
+### [Alert](/docs/petority/features/alerts-notifications)
 **1. Instant Fence Alerts**
 
 Set up virtual fences to define safe areas for your pet. 
