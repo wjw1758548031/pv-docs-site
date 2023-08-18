@@ -1,10 +1,7 @@
 ---
 sidebar_position: 10
+title: Delete Account
 ---
-
-***
-Delete Account
-***
 
 # Delete Your Account
 **To delete your Petority account, you can follow these steps:**
@@ -19,7 +16,7 @@ Delete Account
 
 2. After submitting the account deactivation request, the account will be taken offline and kept in a **30-day** review period. Within these 30 days, you can attempt to log in to the account to cancel the account deletion request, which will allow you to restore the account and use it normally.
 
-![recover account](/img/logo.svg)
+    ![recover account](/img/logo.svg)
 
 3. Before proceeding with the deactivation, carefully review the information provided on the account deletion page to avoid any unintended consequences.
 ## FAQs
