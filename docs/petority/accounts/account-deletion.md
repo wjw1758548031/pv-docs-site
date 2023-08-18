@@ -11,7 +11,6 @@ Delete Account
 + Open the Petority app and log in to your account.
 + Click **User** > **Settings**
 + Click **Account security** > **Delete Account**
-
 + Read Account deletion notice，click **Delete**
 
 **Account Deletion Notice:**
@@ -26,19 +25,13 @@ Delete Account
 ## FAQs
 ### What to do if the account cannot be deleted?
 + When deactivating your account, a security verification is required. The application will send a verification code to your registered email address to ensure that the security verification is completed.
-
-+ Account deactivation requires agreeing to the <Petority Account Deactivation Notice>. Please check if you agree and tick the box.
-
 + Once you submit the account deletion request, the account will be taken offline and kept in a 30-day review period. During this period, the account cannot be used, and clicking **Keep account** will result in the deactivation process being canceled.
-
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue.
 ### After the account is deleted, how to recover it?
+
 Once an account is successfully deactivated, it cannot be retrieved.
 
 + After submitting a request for account deactivation, it generally takes 30 days for the review process. During this period, the platform verifies and processes your deactivation request to ensure its legality and security.
-
 + In the review process, your account will typically be marked as **pending deactivation**  During this time, we offer an option to restore the account, allowing you to cancel the deactivation request and regain access to the account. You can attempt to recover the account on the login page.
-
 + Once the review is completed and approved, the account will be deactivated successfully, and all data will be permanently destroyed, making it impossible to retrieve.
 ### What to do if you are not receiving the verification code?
 + Check if the email is in your junk/spam inbox.
