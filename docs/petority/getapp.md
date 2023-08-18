@@ -1,13 +1,9 @@
 ---
 sidebar_position: 1
+title: Get App
 ---
 
-***
-Get App
-***
-
-# Get Petority App
-The Petority mobile app is compatible with smartphones is available for free in the Apple App Store (iOS) and the Google Play Store (Android).
+**The Petority mobile app is compatible with smartphones is available for free in the Apple App Store (iOS) and the Google Play Store (Android).**
 
 ## Use the links below to download the app:
 
@@ -19,7 +15,7 @@ The Petority mobile app is compatible with smartphones is available for free in 
 
 ![Android](/img/logo.svg)
 
-## The Petority mobile app is compatible with the following devices:
+**The Petority mobile app is compatible with the following devices:**
 
 + iPhone, iPad with iOS **11** or above.
 
