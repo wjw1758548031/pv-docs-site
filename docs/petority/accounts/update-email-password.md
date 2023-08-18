@@ -29,7 +29,7 @@ If you forget the password for the application, you can try the following soluti
 + A verification email will be sent to the email address you provided. Check your inbox and click the verification link to complete the account verification.
 + After entering the verification code on the password reset page, you can set a new password.
 
-![login-update]((/img/logo.svg))
+![login-update](/img/logo.svg)
 
 ### 2.If you realize that you have forgotten your password while using the app
 + Tap **User**->**Account security** and then click on **Ok**
@@ -37,5 +37,5 @@ If you forget the password for the application, you can try the following soluti
 + A verification email will be sent to the email address you provided. Check your inbox and click the verification link to complete the account verification.
 + After entering the verification code on the password reset page, you can set a new password.
 
-![user update]((/img/logo.svg))
+![user update](/img/logo.svg)
  
