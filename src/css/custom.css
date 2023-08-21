@@ -44,6 +44,10 @@ h1, h2, h3, h4, h5 {
   font-family: Candara, "Work Sans", "roboto", sans-serif
 }
 
+p {
+  font-family: roboto;
+}
+
 .footer__link-item {
   font-size: 14px;
 }
