@@ -5,11 +5,9 @@ title: Health Monitoring
 
 # Tracking Your Pet's Well-being with Petority's Health Feature
 
-Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. 
+Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being.Among its standout capabilities is the **comprehensive health data detection** and **location history tracking functionality**. 
 
 ![Health](/img/logo.svg)
-
-Among its standout capabilities is the **comprehensive health data detection** and **location history tracking functionality**.
 
 ## Exploring Health Data Insights
 
@@ -60,7 +58,7 @@ By having access to their heart rate data, you can promptly detect any irregular
 
 + Normal Heart Rate ：70~120 bpm (Green)
   
-+ Soothing Heart Rate ：<70 bpm (yellow)
++ Soothing Heart Rate ：<70 bpm (Yellow)
   
 + Fierce Heart Rate ：>120 bpm (Red)
 
