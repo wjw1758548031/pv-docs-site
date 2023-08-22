@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://docs.petaverse.cloud',
+  url: 'https://help.petority.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -90,12 +90,12 @@ const config = {
           },
           //{ to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://www.petaverse.cloud',
+            href: 'https://www.petority.net',
             label: 'Back to Official',
             position: 'right',
           },
           {
-            href: 'https://www.petaverse.cloud',
+            href: 'https://www.petority.net',
             label: 'Store',
             position: 'right',
           },
@@ -193,7 +193,7 @@ const config = {
         /* logo: {
           alt: 'Petaverse Logo',
           src: 'img/petaverse-logo.svg',
-          href: 'https://www.petaverse.cloud',
+          href: 'https://www.petority.net',
           target: '_self',
           height: 50,
         }, */
