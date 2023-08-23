@@ -28,7 +28,7 @@ By connecting to the 2.4GHz network, you can ensure compatibility with most devi
 
 + If your network has no password, you can leave the password field empty and simply click on "Connect" to start the connection process.
 
-## 3.What to do if the network configuration fails?
+### 3.What to do if the network configuration fails?
 **Attempting to use your mobile hotspot to set up the device:**
 
 + Check the password length for your mobile hotspot; it should not exceed 15 characters.
