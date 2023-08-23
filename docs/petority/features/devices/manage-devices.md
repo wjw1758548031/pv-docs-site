@@ -1,17 +1,17 @@
 ---
 sidebar_position: 1
-title: Docker & Tag Information 
+title: Docker & Tag
 ---
 
 # Docker & Tag Information 
 
-**Petority offers a range of innovative devices designed to help you track and care for your beloved pets.**
+Petority offers a range of innovative devices designed to help you track and care for your beloved pets.
 
 ![device picture](/img/logo.svg)
 
+## Docker & Tag Information
 These devices come equipped with various features that ensure the well-being and safety of your furry companions. Below is a brief overview of the device information and settings available within the Petority ecosystem:
 
-## Docker & Tag Information
 ![Device Information:](/img/logo.svg)
 
 **Name:**
@@ -36,7 +36,7 @@ View the signal strength of the device's connection to ensure reliable communica
 
 Enable real-time location tracking to monitor your pet's movements and ensure their safety.
 
-**Geofencing:**
+**[Geofencing:](/docs/petority/features/devices/Fence)**
 
 Set up virtual boundaries to receive alerts when your pet enters or leaves specific areas.
 
@@ -59,7 +59,7 @@ Keep your device up to date with the latest features and improvements by perform
 + Select Device: Choose the specific device you want to manage.
 + Device Details: View essential information about the device, such as battery level and signal strength.
 + Device Settings: Navigate to the settings section to configure various options based on your pet's needs.
-### Note:
+## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
 + Keep the device connected to WiFi for seamless data synchronization and updates.
 + Customize geofencing settings to receive alerts for your pet's safety within specified areas.
