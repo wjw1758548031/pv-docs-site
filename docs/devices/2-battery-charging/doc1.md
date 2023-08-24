@@ -1,51 +1,35 @@
 ---
 sidebar_position: 1
+title: Bettery Charging
 ---
 
-# Doc
+# Charging Your Petority Device
 
-We are Petaverse Customer Support team and it's our job to make sure you'll have the best resources at your disposal to answer all your questions regarding our products and applications.
+To charge your Petority Tag, you'll need a Petority Docker and access to electricity.
 
+The Petority device takes **3** hours to charge from 0 to 100%. We'll send a reminder at **10%** to recharge. 
 
++ Any standard USB **type C** to micro USB cable works with the Petority Charging Base.
++ Make sure your Petority Docker is plugged in. Place the Petority Tag on the Petority Docker.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+When you place your Petority Tag on the Petority Docker, the light on the base will turn **blue**, indicating your tag is docked. 
 
-## Getting Started
+You’ll notice the LED light on the Petority Docker will also turn on. If your Petority Tag pulses **blue**, this shows the Petority Tag is charging.
 
-Get started by **creating a new site**.
+When fully charged, the **blue** LED light will stop pulsing on your Petority Tag. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+To charge or activate your tag, the module must sit in the indention on the top side of your Petority Docker. 
 
-### What you'll need
+![Charging](/img/logo.svg)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+**Charging Status Indicator Colors:**
 
-## Generate a new site
+| Status | Colors |
+| ----------- | ----------- |
+| Charging (Battery Low) | Title |
+| Charging (Battery Medium to High) | Text |
+| Fully Charged | Title |
+| Charging Complete | Text |
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Tips
+Keep an eye on the indicator colors and patterns to understand the charging progress and status.Disconnect the device from power once it's fully charged to prevent overcharging.
