@@ -3,33 +3,57 @@ sidebar_position: 1
 title: Bettery Charging
 ---
 
-# Charging Your Petority Device
+# Charging Docker & Tag
 
-To charge your Petority Tag, you'll need a Petority Docker and access to electricity.
-
-The Petority device takes **3** hours to charge from 0 to 100%. We'll send a reminder at **10%** to recharge. 
-
-+ Any standard USB **type C** to micro USB cable works with the Petority Charging Base.
-+ Make sure your Petority Docker is plugged in. Place the Petority Tag on the Petority Docker.
-
-When you place your Petority Tag on the Petority Docker, the light on the base will turn **blue**, indicating your tag is docked. 
-
-You’ll notice the LED light on the Petority Docker will also turn on. If your Petority Tag pulses **blue**, this shows the Petority Tag is charging.
-
-When fully charged, the **blue** LED light will stop pulsing on your Petority Tag. 
-
-To charge or activate your tag, the module must sit in the indention on the top side of your Petority Docker. 
+To **charge** or **activate** your tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity. 
 
 ![Charging](/img/logo.svg)
+
+The Petority device takes **3** hours to charge from 0 to 100%. We'll send a reminder at **10%** to recharge. See: **[Alerts & Notifications](/docs/petority/features/alerts-notifications)**
+
+
+## Charging the Tag:
+
+ ![Charging](/img/logo.svg)
+
++ Place the Tag on the top shell of the Docker:
+
+    Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
+
++ Connect the Docker to a Power Source:
+
+    Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+
++ Charging Indicator Light:
+
+    The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Tag is charging, while a green light indicates that the Docker's battery is fully charged.
+
++ Wait for Charging Completion:
+
+    Once the Tag is fully charged, the indicator light will stop blinking and remain green.
+
+## Charging the Docker:
+
+ ![Charging](/img/logo.svg)
+
++ Connect the Docker to a Power Source:
+
+    Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+
++ Charging Indicator Light:
+
+    The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Docker is charging, while a green light indicates that the Docker's battery is fully charged.
 
 **Charging Status Indicator Colors:**
 
 | Status | Colors |
 | ----------- | ----------- |
-| Charging (Battery Low) | Title |
+| Charging (Battery Low) | Text |
 | Charging (Battery Medium to High) | Text |
-| Fully Charged | Title |
+| Fully Charged | Text |
 | Charging Complete | Text |
 
-## Tips
-Keep an eye on the indicator colors and patterns to understand the charging progress and status.Disconnect the device from power once it's fully charged to prevent overcharging.
+## Tips:
+Keep an eye on the indicator colors and patterns to understand the charging progress and status.
+
+Disconnect the device from power once it's fully charged to prevent overcharging.
