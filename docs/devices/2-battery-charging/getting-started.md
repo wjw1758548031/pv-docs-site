@@ -1,51 +1,40 @@
 ---
 sidebar_position: 1
+title: Battery duration
 ---
 
-# Doc
+# How Long Does the Petority Docker & Tag Battery Last?
 
-We are Petaverse Customer Support team and it's our job to make sure you'll have the best resources at your disposal to answer all your questions regarding our products and applications.
+With the right configuration, your Petority Devices can go months in between charges.
 
+Performance will depend on set up, The battery life of Petority devices depends on several factors, including **usage frequency**, **environmental conditions**, and **charging habits**.
 
+Generally, the battery life of Petority devices can **range from several days to a few weeks**.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Here are some recommended methods to extend the battery life of Petority devices:
 
-## Getting Started
++ Moderate Usage Frequency:
 
-Get started by **creating a new site**.
+    Reduce frequent data queries and tracking, as this can help minimize device energy consumption.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
++ Optimal Charging:
 
-### What you'll need
+    Charge as needed and avoid frequent charging. Avoid excessive charging and discharging cycles, as this can prolong battery life.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
++ Avoid Extreme Temperatures:
 
-## Generate a new site
+    Prevent exposing the device to extreme high or low temperatures, as this can impact battery life.
 
-Generate a new Docusaurus site using the **classic template**.
++ Optimize Location Tracking:
 
-The classic template will automatically be added to your project after you run the command:
+    Set reasonable location tracking intervals and avoid overly frequent real-time tracking to lower battery consumption.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
++ Timely Charging:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+    When the device's battery level is low, charge it promptly to prevent using it with a critically low battery.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
++ Disable Unnecessary Features:
 
-## Start your site
+    Turn off features on the device when not needed, such as heart rate monitoring, to reduce energy consumption.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Please note that battery life is a relative concept, and different user behaviors and habits can lead to variations in battery life. Through responsible usage and maintenance, you can maximize the battery life of Petority devices, providing better care and protection for your pets.
