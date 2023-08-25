@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introduce
 ---
 
-# Petority Hardware: Premium Design and Powerful Features
+# Premium Design and Powerful Features
 Petority is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. 
 
 From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority hardware.
