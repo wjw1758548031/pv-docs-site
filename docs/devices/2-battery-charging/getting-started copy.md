@@ -1,51 +1,34 @@
 ---
 sidebar_position: 1
+title: check the battery 
 ---
 
-# Doc
+# How to Check the Battery Level of Petority Docker & Tag
 
-We are Petaverse Customer Support team and it's our job to make sure you'll have the best resources at your disposal to answer all your questions regarding our products and applications.
+Keeping track of your Petority Docker & Tag's battery levels is crucial to ensuring your pet's safety and proper device functionality. Here's how you can easily check the battery status:
 
++ Connect Your Petority:
 
+    Ensure that both your Petority Docker and Tag are properly connected to your smartphone through the Petority app.
 
-Let's discover **Docusaurus in less than 5 minutes**.
++ Log in to Your Account:
 
-## Getting Started
+    Open the Petority app and log in using your registered account details.
 
-Get started by **creating a new site**.
++ Check the Battery Widget:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+ Navigate to the Home page and then tap on the Map tab.
 
-### What you'll need
+1. View Battery Percentage on Home Page:
+    
+    On the Home page, you can see your Docker & Tag along with their respective battery percentages displayed.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+ ![battery](/img/logo.svg)
 
-## Generate a new site
+2. Detailed Battery Percentage on Map Page:
 
-Generate a new Docusaurus site using the **classic template**.
+    While on the Map page, select the icon corresponding to the Pet's Docker & Tag you wish to check. Click the arrow ">" icon to expand, and you will see the detailed battery percentage information.
 
-The classic template will automatically be added to your project after you run the command:
+ ![battery](/img/logo.svg)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Please note that the battery percentage shown in the Battery Widget and the popup may not always be in real-time sync due to slight delays in updating. However, this should give you a good indication of the approximate battery level of your Docker & Tag .
