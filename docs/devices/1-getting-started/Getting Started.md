@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Getting Started
 ---
 
-# Getting Started
+# What to Do If You Have a Petority Device
 
 If you have a Petority device, there are a few steps you can take to get started and make the most out of its features:
 
