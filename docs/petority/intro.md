@@ -3,18 +3,14 @@ sidebar_position: 1
 title: Get to Know
 ---
 
-# Know about The Petority App
+#### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
 **Petority is your ultimate companion for keeping a watchful eye on your beloved pets. Enhance Your Pet's Life with Petority's Comprehensive Services**
 
-**Download: [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)**
-
+#### Download: [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)
 **The Petority mobile app is compatible with the following devices:**
 
 + iPhone, iPad with iOS **11** or above.
-
-+ Android devices with operating system **7.0** and above (Google Play Services required).  
-
-#### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
++ Android devices with operating system **7.0** and above (Google Play Services required).
 ## App features:
 **This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.**
 
