@@ -1,25 +1,28 @@
 ---
 sidebar_position: 2
-title: Pets
+title: Managing Pet's Profile
 ---
 
-# Pet Management Guide
-**Petority is a comprehensive application designed to assist pet owners in tracking and managing their pets' well-being.**
+# Managing Your Pet's Profile on Petority App
+Petority is a comprehensive application designed to assist pet owners in tracking and managing their pets' well-being.
+In Petority, you can easily **create**, **edit**, and **manage** your pets' information to ensure that their profiles are **accurate** and **up-to-date**.
 
 ![pet info page](/img/logo.svg)
 
-In Petority, you can easily **create**, **edit**, and **manage** your pets' information to ensure that their profiles are **accurate** and **up-to-date**.
-
-## 1. Creating Pet Information
+## 1. Creating a Pet Profile:
 Here's how to create pet information in Petority:
 
-+ Login to Your Account:
-  
-    Open the Petority app and log in using your account credentials.
++ Open the App:
+
+    Launch the Petority app on your Android or iOS device.
+
++ Login:
+
+    Log in to your Petority account if you haven't already.
 
 + Access Pet Profile:
   
-    Tap **User**, look for the **Pet Profile** section.
+    Tap **User** > **Pet Profile** section.
 
 + Add a New Pet:
  
@@ -29,25 +32,23 @@ Here's how to create pet information in Petority:
   
     Provide essential information about your pet, such as its **name**, **breed**, **species**, **date of birth**, and **gender**. it also allows you to upload a photo of your pet.
 
-+ Save Pet Profile:
-  
-    After entering the required details, click **Save** to create the pet's profile.
++ Save Changes:
+
+    Once you've filled in the necessary information, save the changes to create the new pet profile.
 
 ![create](/img/logo.svg)
 
-The new pet will now be added to your account.
-
-## 2.Editing Pet Information
+## 2. Editing a Pet Profile:
 
 To edit pet information in Petority, follow these steps:
 
-+ Login to Your Account:
++ Open the App:
 
-    Open the Petority app and log in using your account credentials.
-
+    Launch the Petority app and log in to your account.
+  
 + Access Pet Profile: 
 
-   Tap **User**, Navigate to the **Pet info** section .
+   Tap **User** > **Pet info** section .
 
 + Select Pet: 
 
@@ -65,20 +66,33 @@ To edit pet information in Petority, follow these steps:
 
     After making the necessary changes, click **Save** to save the modifications to your pet's profile.
 
-## 3.Delete pet information in Petority
-+ Open the Petority app and log in to your account.
-+ Navigate to the **Pet info** section. 
-+ Select the pet whose information you want to delete.
-+ Click **Delete** option
+## 3. Deleting a Pet Profile:
++ Open the App:
+
+    Launch the Petority app and log in to your account.
+
++ Access Pet Profile: 
+
+   Tap **User** > **Pet info** section .
+
++ Select Pet: 
+
+     Click on the pet profile you want to delete.
+
++ Delete Pet:
+
+    Click on **delete** to initiate the deletion process.
+
++ Confirm Deletion:
+
+    Confirm your decision to delete the pet profile.
+
++ Completion:
+
+    Once confirmed, the pet profile and associated data will be permanently deleted from your Petority account.
 
 ![delete](/img/logo.svg)
 
-Once confirmed, the pet's information will be permanently deleted from Petority.
+**Deleting pet information is irreversible, and all associated data will be removed. Make sure to double-check before proceeding with the deletion.** 
 
-Please note that deleting pet information is irreversible, and all associated data will be removed. Make sure to double-check before proceeding with the deletion. 
-
-## Considerations
-+ Ensure that the information you provide for your pet is accurate and up-to-date.
-+ Some pet-related information, such as breed and species, might have predefined options to choose from.
-+ Regularly update your pet's information to reflect any changes in their profile.
-+ By creating and managing your pets' information in Petority, you can ensure that their profiles are accurate, enabling you to monitor and care for them more effectively.   
+Managing your pet profiles on the Petority app ensures that you have accurate information at your fingertips, helping you provide the best care for your furry companions.
