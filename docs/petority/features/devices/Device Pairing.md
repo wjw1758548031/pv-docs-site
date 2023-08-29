@@ -3,7 +3,7 @@ ssidebar_position: 1
 title: Device Pairing
 ---
 
-# Device Pairing and WiFi Configuration for Petority
+# Device Pairing and WiFi Configuration
 
 Petority offers a seamless process for pairing your device and configuring WiFi settings. This ensures you can effectively monitor your pet's activities and receive timely notifications. 
 
