@@ -72,8 +72,6 @@ Check whether they're getting sufficient exercise daily.
   
 + Untracking ：Grey
 
-## Conclusion
-
 Petority's Health Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and health. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
 
  
