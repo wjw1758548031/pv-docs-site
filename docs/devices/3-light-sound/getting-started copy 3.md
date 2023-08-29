@@ -1,51 +1,16 @@
 ---
 sidebar_position: 1
+title: Sound Alerts
 ---
 
-# Getting Started
+# Sound Alerts and Automatic Recall
 
-We are Petaverse Customer Support team and it's our job to make sure you'll have the best resources at your disposal to answer all your questions regarding our products and applications.
+**Sound Alerts:**
 
+Petority devices trigger an **[Automatic Recall](/docs/petority/features/devices/devices-settings#2-sound-settings)** function. This function is pre-configured to guide the pet back within the safety confines of the designated area.
 
+When a pet ventures outside the predefined safe zone, Petority devices emit a distinct sound alert pattern to signal the occurrence.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![Fence alert](/img/logo.svg)
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The integration of sound alerts and automatic recall functions in Petority devices provides timely warnings and measures when a pet leaves the safe zone. This comprehensive approach helps ensure the pet's safety, offering owners peace of mind as they effectively manage and care for their cherished companions.
