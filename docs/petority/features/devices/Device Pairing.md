@@ -15,9 +15,9 @@ Petority offers a seamless process for pairing your device and configuring WiFi 
 
 ![step](/img/logo.svg)
 
-+ [Download](/docs/petority/getapp) and Install the App:
++ Download and Install the App:
 
-    Start by [downloading the Petority app](/docs/petority/getapp) from the [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)
+    Start by downloading the Petority app from the [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)
 
     Install the app on your smartphone.
 
