@@ -113,6 +113,4 @@ Each time you tap the icon, a different view will be shown:
 + Go outside with the Map view open and wait until your smartphone can get a GPS connection.
 + Contact Petority for further support.
 
-## Conclusion
-
 Petority's real-time location tracking and monitoring feature empower you to provide optimal care for your pets.   
