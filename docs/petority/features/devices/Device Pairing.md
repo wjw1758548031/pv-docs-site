@@ -9,9 +9,11 @@ Petority offers a seamless process for pairing your device and configuring WiFi 
 
 ![pairing steps](/img/logo.svg)
 
-**Follow these steps to bind your device and set up WiFi:**
+**Follow these steps to pair your device and set up WiFi:**
 
 ## Device Pairing:
+
+![step](/img/logo.svg)
 
 + [Download](/docs/petority/getapp) and Install the App:
 
@@ -41,11 +43,12 @@ Petority offers a seamless process for pairing your device and configuring WiFi 
 
     Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.
 
+the device cannot be scanned, see: [What to do if the device cannot be scanned？](/docs/petority/features/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
+
 ## WiFi Configuration:
+After pairing, navigate to the WiFi configuration section within the app. Make sure the WiFi is set to the **2.4GHz** frequency band. 
 
-+ Access WiFi Settings:
-
-    After pairing, navigate to the WiFi configuration section within the app.
+![Wifi](/img/logo.svg)
 
 + Select WiFi Network:
 
@@ -59,10 +62,8 @@ Petority offers a seamless process for pairing your device and configuring WiFi 
 
     Your Petority device will disconnect from your smartphone's Bluetooth temporarily to establish a connection with the chosen WiFi network. Once connected, the device will relay data through the WiFi network.
 
-**Note:**
+The network configuration fails, see: [What to do if the network configuration fails?](/docs/petority/features/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
 
 With your device successfully paired and WiFi configured, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
 
-As the process may vary slightly based on device models and app versions, always refer to official Petority documentation for accurate instructions. 
-
-This ensures you can provide your pet with the best care and attention.
+As the process may vary slightly based on device models and app versions, always refer to official Petority documentation for accurate instructions. This ensures you can provide your pet with the best care and attention.
