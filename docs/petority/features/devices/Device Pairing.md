@@ -11,7 +11,7 @@ Petority is a powerful pet tracking and monitoring system. Here's a comprehensiv
 
 ## Device Pairing:
 
-**Follow these steps to pair your device:**
+Follow these steps to pair your device:
 
 ![step](/img/logo.svg)
 
@@ -45,7 +45,7 @@ Petority is a powerful pet tracking and monitoring system. Here's a comprehensiv
 
 Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.
 
-the device cannot be scanned, see: [What to do if the device cannot be scanned？](/docs/petority/features/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
+[What to do if the device cannot be scanned？](/docs/petority/features/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
 
 [What to do if pairing fails？](/docs/petority/features/devices/FAQs#1what-to-do-if-pairing-fails)
 
@@ -66,9 +66,9 @@ After pairing, navigate to the WiFi configuration section within the app. Make s
 
     Your Petority device will disconnect from your smartphone's Bluetooth temporarily to establish a connection with the chosen WiFi network. Once connected, the device will relay data through the WiFi network.
 
-The network configuration fails, see: [What to do if the network configuration fails?](/docs/petority/features/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
-
 With your device successfully paired and WiFi configured, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
+
+[What to do if the network configuration fails?](/docs/petority/features/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
 
 ## Pet Association:
 
@@ -80,6 +80,4 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 
 After association, you'll be able to see the connection status and data of your pet and device in the app.
 
-By pairing the device, configuring WiFi, and associating your pet, you can effortlessly use the Petority system to real-time track and monitor your pet, ensuring their safety and well-being.
-
-As the process may vary slightly based on device models and app versions, always refer to official Petority documentation for accurate instructions. This ensures you can provide your pet with the best care and attention.
+By **pairing the device**, **configuring WiFi**, and **associating your pet**, you can effortlessly use the Petority system to real-time track and monitor your pet, ensuring their safety and well-being.
