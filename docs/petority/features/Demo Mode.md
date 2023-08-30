@@ -42,3 +42,12 @@ This simulation helps users better understand how the application's features ope
 + Simulate Scenarios:
 
     Users can simulate a variety of scenarios, such as tracking pet movements or monitoring health data, allowing them to witness the app's functionalities in action.
+
+### Transitioning from Demo Mode to Device Binding in Petority
+
+If you're ready to transition from Demo Mode to the full functionality of the app with actual Petority devices, here's how you can do it:
+
++ Pairing Your Device, see：[Device Pairing](/docs/petority/features/devices/Device%20Pairing)
+
+    Once the verification is successful, your Petority device is now bound to your account. You will now have access to all the real-time tracking, health monitoring, and other features offered by Petority.
+
