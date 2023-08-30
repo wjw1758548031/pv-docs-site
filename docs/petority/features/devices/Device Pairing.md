@@ -9,9 +9,9 @@ Petority offers a seamless process for pairing your device and configuring WiFi 
 
 ![pairing steps](/img/logo.svg)
 
-**Follow these steps to pair your device and set up WiFi:**
-
 ## Device Pairing:
+
+**Follow these steps to pair your device:**
 
 ![step](/img/logo.svg)
 
