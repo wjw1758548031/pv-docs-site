@@ -41,9 +41,24 @@ Here's a detailed overview of Petority's notification and notification types:
 
     You can opt to receive notifications via email, ensuring you can stay updated even when you're not using the app.
 
-## Note:
-1. By setting up appropriate notifications and selecting preferred notification types, you can stay connected and well-informed about your pet's well-being and device performance. 
+## Manage notifications
 
-2. Customize these settings according to your preferences and requirements to ensure you remain connected and informed at all times.
+![Manage notifications](/img/logo.svg)
 
- 
+**1. Enabling or Disabling Message Notifications**
+
++ Open the Petority app and log in to your account.
++ Tap **User** > **Setting** > **Alert**
+    Once you access the message notification settings page, you will see various types of message notification options, such as **battery**, **signal**, **heart rate**, **fence** alerts, and more.
+  
+    Toggle the switch next to each message notification type to enable or disable the respective notification.
+
+**2. Ending Fence Event Alerts:**
+
+![End event](/img/logo.svg)
+
++ When you receive a fence event alert, you will see an **End event** button displayed within the notification. 
+
++ Click the **End event** button in the notification to stop the related fence event alert.
+
+By setting up appropriate notifications and selecting preferred notification types, you can stay connected and well-informed about your pet's well-being and device performance. Customize these settings according to your preferences and requirements to ensure you remain connected and informed at all times.
