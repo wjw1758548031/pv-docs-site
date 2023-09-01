@@ -21,7 +21,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Charge the Device:
 
-    If your device needs charging, make sure to do so **[using the provided charger and cable](/docs/devices/battery-charging/doc1)**. This will ensure that your device has sufficient power for tracking.
+    If your device needs charging, make sure to do so **[using the provided charger and cable](/docs/devices/battery-charging/battery-charging)**. This will ensure that your device has sufficient power for tracking.
 
 + Configure Settings:
 
