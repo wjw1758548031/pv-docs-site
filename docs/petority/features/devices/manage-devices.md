@@ -10,9 +10,11 @@ Petority offers a range of innovative devices designed to help you track and car
 ![device picture](/img/logo.svg)
 
 ## Docker & Tag Information
-These devices come equipped with various features that ensure the well-being and safety of your furry companions. Below is a brief overview of the device information and settings available within the Petority ecosystem:
+These devices come equipped with various features that ensure the well-being and safety of your furry companions. 
 
 ![Device Information:](/img/logo.svg)
+
+Below is a brief overview of the device information and settings available within the Petority ecosystem:
 
 **Name:**
 
