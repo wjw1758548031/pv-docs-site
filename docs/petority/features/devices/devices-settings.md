@@ -3,10 +3,10 @@ sidebar_position: 2
 title: Docker & Tag Settings
 ---
 
-## Docker & Tag Settings
+## General Settings
 ![docker settings](/img/logo.svg)
 ### 1. Configuring WiFi Connection
-**To ensure your Petority device can effectively connect to the internet and sync with your smartphone, it's essential to configure the device to the appropriate WiFi network.**
+To ensure your Petority device can effectively connect to the internet and sync with your smartphone, it's essential to configure the device to the appropriate WiFi network.
 
 ![WiFi](/img/logo.svg)
 
@@ -38,9 +38,9 @@ Once the device successfully connects to the WiFi network, your device is ready 
 + Ensure you input the correct WiFi password during the configuration to avoid connection issues.
 + Confirm that both your smartphone and the device are within network range to ensure a smooth connection.
 + By completing the aforementioned steps, you can ensure your Petority device is successfully connected to the WiFi network, enabling data synchronization and remote control functionality with your smartphone. This contributes to better caring for and managing your pet's health and safety.
-### 2. Restore factory Your Petority Device
+### 2. Restore factory
 
-**Petority devices occasionally require a factory reset to restore them to their original settings.**
+Petority devices occasionally require a factory reset to restore them to their original settings.
 
 ![Restore factory](/img/logo.svg)
 
@@ -52,7 +52,7 @@ Launch the Petority app on your smartphone. Log in to your account.
 
 **Step 2:** Access Device Settings
 
-Tap **User** > **Device**
+Tap **User** > **Device** > **Setting**
 
 **Step 3:** Choose Restore factory
 
@@ -62,15 +62,13 @@ Tap **Restore factory**
 
 Confirm your intention to proceed with the factory reset.
 
-**Step 5:** Reconfigure the Device
-
-After the factory reset is completed, you'll need to reconfigure the device from scratch. This include pairing it with the app, connecting to Wi-Fi, and other initial setup steps.
+After the factory reset is completed, you'll need to reconfigure the device from scratch. This include **[pairing](/docs/petority/features/devices/Device%20Pairing)** it with the app, **connecting to Wi-Fi**, and other initial setup steps.
 
 **Note:**
 + Keep in mind that performing a factory reset will erase all data and settings on your Petority device, essentially returning it to its original state as if it were brand new. Only perform a factory reset when necessary, and be aware of the consequences.
 ## Tag Settings
 
-**The Petority pet tag offers various personalized and safety features for your pet, including pet tag light and sound settings. By adjusting these settings, you can better manage and protect your pet.**
+The Petority pet tag offers various personalized and safety features for your pet, including pet tag light and sound settings. By adjusting these settings, you can better manage and protect your pet.
 
 ![Tag light](/img/logo.svg)
 
@@ -88,13 +86,13 @@ Within the Petority app, you have the option to enable or disable the LED light 
 
 **Enable/Disable Sound Effects:**
 
-The Petority pet tag can emit sound effects to attract your pet's attention or remind them of actions. You can enable or disable these sound effects within the app.
+The Petority tag can emit sound effects to attract your pet's attention or remind them of actions. You can enable or disable these sound effects within the app.
 
 **Select Sound Types:**
 
 If sound effects are enabled, you can choose from different types of sounds. Choose sound types that match your pet's characteristics and preferences.
 
-### Accessing Pet Tag Light and Sound Settings:
+### 3. Accessing Tag Light and Sound Settings:
 + Open the Petority App: 
 
     Download and open the Petority app, ensuring that you are logged into your account.
