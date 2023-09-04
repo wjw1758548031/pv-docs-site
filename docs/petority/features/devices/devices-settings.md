@@ -62,7 +62,7 @@ Tap **Restore factory**
 
 Confirm your intention to proceed with the factory reset.
 
-After the factory reset is completed, you'll need to reconfigure the device from scratch. This include **[pairing](/docs/petority/features/devices/Device%20Pairing)** it with the app, **connecting to Wi-Fi**, and other initial setup steps.
+After the factory reset is completed, you'll need to reconfigure the device from scratch. This include **pairing** it with the app, **connecting to Wi-Fi**, and other initial setup steps.
 
 **Note:**
 + Keep in mind that performing a factory reset will erase all data and settings on your Petority device, essentially returning it to its original state as if it were brand new. Only perform a factory reset when necessary, and be aware of the consequences.
