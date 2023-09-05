@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Sound Alerts
+title: Sound Alerts1
 ---
 
 # Sound Alerts and Automatic Recall

@@ -1,4 +1,4 @@
-# faqs
+# FAQs
 ## Device pairing
 ### 1.What to do if pairing fails？
 + Please check if your phone's Bluetooth is turned on and if your phone has an active internet connection.

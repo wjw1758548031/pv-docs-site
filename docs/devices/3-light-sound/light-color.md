@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Device Status &  Light Color
+title: Device Status &  Light Color1
 ---
 
 # Understanding Petority Device Light Colors and Behaviors
