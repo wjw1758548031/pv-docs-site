@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Battery duration
+title: Battery Duration
 ---
 
 # How Long Does the Petority Docker & Tag Battery Last?
