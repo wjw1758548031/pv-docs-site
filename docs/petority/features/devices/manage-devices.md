@@ -38,7 +38,7 @@ View the signal strength of the device's connection to ensure reliable communica
 
 Enable real-time location tracking to monitor your pet's movements and ensure their safety.
 
-**[Geofencing:](/docs/petority/features/devices/Fence)**
+**[Geofencing:](/docs/petority/features/devices/fence)**
 
 Set up virtual boundaries to receive alerts when your pet enters or leaves specific areas.
 

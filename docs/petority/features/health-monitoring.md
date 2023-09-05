@@ -54,13 +54,14 @@ Keeping an eye on your pet's heart health is crucial. This feature empowers you 
 By having access to their heart rate data, you can promptly detect any irregularities and take necessary actions for their well-being.
 
   ![Heart](/img/logo.svg)
-   
 
-+ Normal Heart Rate ：70~120 bpm (Green)
-  
-+ Soothing Heart Rate ：<70 bpm (Yellow)
-  
-+ Fierce Heart Rate ：>120 bpm (Red)
+   
+| Heart Rate   | Value   | Color   |
+| ----------- | ----------- | ----------- |
+| Soothing    | <70 bpm   | Yellow |
+|  Normal     | 70~120 bpm | Green |
+| Fierce      | >120 bpm   | Red   |
+
 
 ### Tracking
 

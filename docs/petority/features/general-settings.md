@@ -28,9 +28,9 @@ Set your preferred units for distance measurement, such as kilometers or miles.
 Choose your preferred units for weight measurement, like kilograms or pounds.
 
 ## 3. Privacy and Security:
-**[Account Security:](/docs/petority/accounts/update-email-password)**
+**Account Security:**
 
-Adjust your account security settings, including password management and email management.
+Adjust your account security settings, including [password management](/docs/petority/accounts/password) and [email management](/docs/petority/accounts/change-email).
 
 ### Accessing General Settings:
 ![setting](/img/logo.svg)

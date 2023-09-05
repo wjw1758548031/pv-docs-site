@@ -1,40 +1,53 @@
 ---
 sidebar_position: 1
-title: Battery duration
+title: Charging Docker & Tag
 ---
 
-# How Long Does the Petority Docker & Tag Battery Last?
+# Charging Docker & Tag
+To charge or activate your tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity.
 
-With the right configuration, your Petority Devices can go months in between charges.
+![charge](/img/logo.svg)
 
-Performance will depend on set up, The battery life of Petority devices depends on several factors, including **usage frequency**, **environmental conditions**, and **charging habits**.
+The Petority device takes **3** hours to charge from 0 to 100%. We'll send a reminder at **10%** to recharge. See: Alerts & Notifications]
 
-Generally, the battery life of Petority devices can **range from several days to a few weeks**.
+## Charging the Tag:
 
-Here are some recommended methods to extend the battery life of Petority devices:
+![charge](/img/logo.svg)
 
-+ Moderate Usage Frequency:
++ Place the Tag on the top shell of the Docker:
+Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 
-    Reduce frequent data queries and tracking, as this can help minimize device energy consumption.
++ Connect the Docker to a Power Source:
+Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
 
-+ Optimal Charging:
++ Charging Indicator Light:
+The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Tag is charging, while a green light indicates that the Docker's battery is fully charged.
 
-    Charge as needed and avoid frequent charging. Avoid excessive charging and discharging cycles, as this can prolong battery life.
+Wait for Charging Completion:
+Once the Tag is fully charged, the indicator light will stop blinking and remain green.
 
-+ Avoid Extreme Temperatures:
+## Charging the Docker:
 
-    Prevent exposing the device to extreme high or low temperatures, as this can impact battery life.
+![charge](/img/logo.svg)
 
-+ Optimize Location Tracking:
++ Connect the Docker to a Power Source:
 
-    Set reasonable location tracking intervals and avoid overly frequent real-time tracking to lower battery consumption.
+Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
 
-+ Timely Charging:
++ Charging Indicator Light:
 
-    When the device's battery level is low, charge it promptly to prevent using it with a critically low battery.
+The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Docker is charging, while a green light indicates that the Docker's battery is fully charged.
 
-+ Disable Unnecessary Features:
+Charging Status Indicator Colors:
 
-    Turn off features on the device when not needed, such as heart rate monitoring, to reduce energy consumption.
+| Charging Status      | Color |
+| ----------- | ----------- |
+| Battery Low      | Title       |
+| Battery Medium to High   | Text        |
+| Fully Charged   | Text        |
+| Charging Complete  | Text        |
 
-Please note that battery life is a relative concept, and different user behaviors and habits can lead to variations in battery life. Through responsible usage and maintenance, you can maximize the battery life of Petority devices, providing better care and protection for your pets.
+
+**Tips:**
++ Keep an eye on the indicator colors and patterns to understand the charging progress and status.
++ Disconnect the device from power once it's fully charged to prevent overcharging.

@@ -17,15 +17,15 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Pair the Device:
 
-    Follow the instructions provided in the app to **[pair your Petority device](/docs/petority/features/devices/Device%20Pairing)** with your account. 
+    Follow the instructions provided in the app to **pair your Petority device** with your account. 
 
 + Charge the Device:
 
-    If your device needs charging, make sure to do so **[using the provided charger and cable](/docs/devices/battery-charging/battery-charging)**. This will ensure that your device has sufficient power for tracking.
+    If your device needs charging, make sure to do so **using the provided charger and cable**. This will ensure that your device has sufficient power for tracking.
 
 + Configure Settings:
 
-    Inside the app, you can configure various settings for your device. This might include **[setting up geofences](/docs/petority/features/devices/Fence#set-up-a-fence)**, adjusting [notification preferences](/docs/petority/features/General%20Settings#1-notification-settings), and customizing activity tracking.
+    Inside the app, you can configure various settings for your device. This might include **[setting up geofences](/docs/petority/features/devices/fence#set-up-a-fence)**, adjusting notification preferences, and customizing activity tracking.
 
 + Monitor Location and Health:
 
@@ -33,7 +33,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Set Up Notifications
 
-    Customize the [notification settings](/docs/petority/features/General%20Settings#1-notification-settings) to receive [alerts](/docs/petority/features/alerts-notifications) when your pet leaves a designated area (geofence), or if there are any changes in their health metrics.
+    Customize the [notification settings](/docs/petority/features/general-settings#1-notification-settings) to receive [alerts](/docs/petority/features/alerts-notifications) when your pet leaves a designated area (geofence), or if there are any changes in their health metrics.
 
 + Explore Features:
 
