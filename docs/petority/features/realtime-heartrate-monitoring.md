@@ -4,7 +4,6 @@ title: Real-Time Heart Rate Monitoring
 ---
 
 # Real-Time Heart Rate Monitoring
-
 Petority offers a cutting-edge feature that allows you to **monitor your pet's heart rate in real time**. This innovative functionality provides valuable insights into your pet's **health** and **well-being**, allowing you to stay proactive about their needs.
 
 ![Real-Time Heart Rate](/img/logo.svg)
