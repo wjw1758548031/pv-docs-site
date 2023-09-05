@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: FAQs
+---
+
 # FAQs
 ## Device pairing
 ### 1.What to do if pairing fails？
