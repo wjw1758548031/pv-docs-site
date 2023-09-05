@@ -7,7 +7,7 @@ title: Create a Petority Account
 
 **Welcome to Petority!**
 
-![welcome page](docsVersionDropdown.png)
+![welcome page](docs/backup/Applications/img.docsVersionDropdown.png)
 
 To start tracking your pet, you'll need to create a Petority account.
  
