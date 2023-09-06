@@ -15,4 +15,14 @@ To Change the email of your account, follow these steps:
 
 Your account's email address will be successfully updated to the new one you've provided.
 
-![Update email](/img/change-email.mp4)
+![Update email](/img/logo.svg)
+
+<video controls width="500">
+  <source src="/img/change-email.mp4" type="video/mp4">
+</video>
+
+<video controls width="500">
+<iframe src="//player.bilibili.com/player.html?aid=944583285&bvid=BV1UW4y1j7Gg&cid=875050848&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</video>
+
+
