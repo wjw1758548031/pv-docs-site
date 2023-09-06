@@ -18,7 +18,7 @@ Here are the steps to edit user information in Petority:
 
 + Access Personal Settings:
   
-    Click the **User info**option in the user page.
+    Click the **User info** option in the user page.
 
 + Enter Edit Mode:
   

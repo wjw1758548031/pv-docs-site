@@ -15,4 +15,4 @@ To Change the email of your account, follow these steps:
 
 Your account's email address will be successfully updated to the new one you've provided.
 
-![Update email](/img/logo.svg)
+![Update email](/img/petority/manage-account/change-email.mp4)
