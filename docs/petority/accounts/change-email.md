@@ -15,23 +15,6 @@ To Change the email of your account, follow these steps:
 
 Your account's email address will be successfully updated to the new one you've provided.
 
-![Update email](/img/change.gif)
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Video Example</title>
-</head>
-<body>
-  <h1>Markdown中插入视频</h1>
-  <div>
-    <video width="640" height="360" controls>
-      <source src="/img/change.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</body>
-</html>
+![Update email](/img//manage-account/change-email.gif)
 
 
