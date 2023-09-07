@@ -15,4 +15,5 @@ To Change the email of your account, follow these steps:
 
 Your account's email address will be successfully updated to the new one you've provided.
 
-![Update email](/img/change-email.mp4)
+![Update email](/img/change.gif)
+
