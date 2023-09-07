@@ -24,8 +24,6 @@ Your account's email address will be successfully updated to the new one you've 
   <title>Video Example</title>
 </head>
 <body>
-  <h1>Markdown中插入视频</h1>
-  <p>以下是一个使用HTML格式在Markdown中插入视频的示例：</p>
   <div>
     <video width="640" height="360" controls>
       <source src="/img/change-email.mp4" type="video/mp4">
