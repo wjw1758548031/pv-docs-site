@@ -56,11 +56,21 @@ Keep your device up to date with the latest features and improvements by perform
 
 ## How to Access Device Information and Settings:
 
-+ Open the Petority App: Download and launch the Petority app on your smartphone.
-+ Device List: Access the list of devices associated with your account.
-+ Select Device: Choose the specific device you want to manage.
-+ Device Details: View essential information about the device, such as battery level and signal strength.
-+ Device Settings: Navigate to the settings section to configure various options based on your pet's needs.
+1. Open the Petority App: 
+    Download and launch the Petority app on your smartphone.
+
+2. Device List: 
+    Tap **User** > **Device**
+
+3. Select Device: 
+    Choose the specific device you want to manage.
+
+4.  Device Details: 
+    View essential information about the device, such as battery level and signal strength.
+
+5.  Device Settings:
+    Tap **setting** section to configure various options based on your pet's needs.
+
 ## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
 + Keep the device connected to WiFi for seamless data synchronization and updates.

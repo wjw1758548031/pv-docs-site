@@ -15,23 +15,23 @@ Follow these steps to pair your device:
 
 ![step](/img/logo.svg)
 
-+ Download and Install the App:
+1. Download and Install the App:
 
     Start by downloading the Petority app from the [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)
 
     Install the app on your smartphone.
 
-+ Create or Log In to Your Account:
+2. Create or Log In to Your Account:
 
     If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
 
     If you already have an account, **log in** using your credentials.
 
-+ Access Device Pairing:
+3. Access Device Pairing:
 
     Tap **User** > **Device** > **+**
 
-+ Follow On-Screen Prompts:
+4. Follow On-Screen Prompts:
 
     The app will guide you through the device pairing process.
 
@@ -54,15 +54,15 @@ After pairing, navigate to the WiFi configuration section within the app. Make s
 
 ![Wifi](/img/logo.svg)
 
-+ Select WiFi Network:
+1. Select WiFi Network:
 
     Choose the WiFi network you want to connect your Petority device to. Ensure your smartphone is connected to the same network during this process.
 
-+ Confirm Configuration:
+2. Confirm Configuration:
 
     Confirm the WiFi configuration in the app. The app will send the WiFi settings to your device.
 
-+ Device Reconnection:
+3. Device Reconnection:
 
     Your Petority device will disconnect from your smartphone's Bluetooth temporarily to establish a connection with the chosen WiFi network. Once connected, the device will relay data through the WiFi network.
 
@@ -74,9 +74,9 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 
 ![choose pet](/img/logo.svg)
 
-+ Choose the pet you want to associate or [create a Pet Profile](/docs/petority/features/pets#1-creating-a-pet-profile)
+1. Choose the pet you want to associate or [create a Pet Profile](/docs/petority/features/pets#1-creating-a-pet-profile)
 
-+ Link the bound Petority device to your pet to ensure their data corresponds to the device.
+2. Link the bound Petority device to your pet to ensure their data corresponds to the device.
 
 After association, you'll be able to see the connection status and data of your pet and device in the app.
 

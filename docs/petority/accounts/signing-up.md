@@ -12,11 +12,11 @@ title: Create a Petority Account
 To start tracking your pet, you'll need to create a Petority account.
  
 ## Create an account with an email
-+ [Download](/docs/petority/intro) and open the **Petority** app.
-+ Enter your email address, ensuring that it's **valid** and **not already registered** with Petority.
-+ Create a secure **password**, which should have at least **8** characters and include both **letters** and **numbers**, avoiding any illegl characters.
-+ Click the **Create account** button.
-+ A **verification email** will be sent to the email address you provided. Check your inbox and click the verification link to complete the account verification.
+1. [Download](/docs/petority/intro) and open the **Petority** app.
+2. Enter your email address, ensuring that it's **valid** and **not already registered** with Petority.
+3. Create a secure **password**, which should have at least **8** characters and include both **letters** and **numbers**, avoiding any illegl characters.
+4. Click the **Create account** button.
+5. A **verification email** will be sent to the email address you provided. Check your inbox and complete the account verification.
 
 ![Emai](/img/manage-account/create-account.gif)
 
@@ -26,24 +26,18 @@ Once verified, you can use your new account to log in to the Petority app and st
 
 + Make sure to use accurate and truthful information while creating your account, and remember to keep your account and password secure for the safety of your account.
 
-## Using a Third-Party Account
+## Using a Third-Party Account to login
 
-+ [Download](/docs/petority/intro) and open the **Petority** app.
-+ On the login page, click **Third-Party Login**.
-+ Choose a supported third-party account  (**Google** and **Facebook**).
-+ Follow the app's prompts, which may require you to authorize Petority to access your third-party account information.
-+ After authorization, return to the Petority app; your third-party account is linked.
-+ You may need to provide an email to link your Petority account.
+1. [Download](/docs/petority/intro) and open the **Petority** app.
+2. On the login page, click **Third-Party Login**.
+3. Choose a supported third-party account  (**Google** and **Facebook**).
+4. Follow the app's prompts, which may require you to authorize Petority to access your third-party account information.
+5. After authorization, return to the Petority app; your third-party account is linked.
+6. You may need to provide an email to link your Petority account.
 
 ![Third-Party](/img/logo.svg)
   
 Once these steps are completed, you can use your third-party account to log in to the Petority app and access its features.
-
-**Note:**
-
-+ Ensure that when using a third-party account to log in, you also securely manage your account information to maintain its security. 
-
-+ Additionally, some features may still require you to provide additional information or complete other steps within the Petority app.
 
 ## FAQs
 ### Account creation failed

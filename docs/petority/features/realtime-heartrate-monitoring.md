@@ -9,13 +9,16 @@ Petority offers a cutting-edge feature that allows you to **monitor your pet's h
 ![Real-Time Heart Rate](/img/logo.svg)
 
 ## How to use:
-+ Access the Feature: Open the **Petority app** on your Android or iOS device and log in.
+1. Access the Feature:
+    Open the **Petority app** on your Android or iOS device and log in.
 
-+ Navigate to Heart Rate: Tap on the **Home** section in the app's menu.
+2. Navigate to Heart Rate: 
+    Tap on the **Home** section in the app's menu.
 
-+ Select Your Pet: If you have multiple pets registered in the app, choose the pet whose heart rate you want to monitor.
+3. Select Your Pet: 
+    If you have multiple pets registered in the app, choose the pet whose heart rate you want to monitor.
 
-+ Real-Time Monitoring:
+4. Real-Time Monitoring:
     Once you've selected the pet, you'll be able to see their heart rate in real time. The app provides a graphical representation of the heart rate data, making it easy to track any fluctuations.
 
 ![process](/img/logo.svg)

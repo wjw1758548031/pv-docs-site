@@ -55,7 +55,8 @@ By having access to their heart rate data, you can promptly detect any irregular
 
   ![Heart](/img/logo.svg)
 
-   
+**Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:**
+ 
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
 | Soothing    | <70 bpm   | Yellow |

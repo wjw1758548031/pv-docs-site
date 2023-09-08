@@ -22,11 +22,11 @@ Once you have set up a Fence, you will begin receiving notifications when your p
 
 In the Petority mobile app:
 
-+ Open the Petority app and log in to your account
-+ Tap **User** > **Fences**
-+ Tap **Edit** 
-+ Set the shape of your Fence. Fences can be circular, rectangular, or in a customizable shape
-+ Tap **Ok**  button to confirm the fence settings.
+1. Open the Petority app and log in to your account
+2. Tap **User** > **Fences**
+3. Tap **Edit** 
+4. Set the shape of your Fence. Fences can be circular, rectangular, or in a customizable shape
+5. Tap **Ok**  button to confirm the fence settings.
 
 ![Steps](/img/logo.svg)
 
@@ -35,20 +35,21 @@ Once the fence settings are complete, you will receive notifications when your p
 **Fence Event Notifications:**
 
 You will receive **[fence event notifications](/docs/petority/features/alerts-notifications)** when your pet enters or exits the defined fence area.
+
 By clicking on the alert notification, you can view detailed information about your pet's fence activities.
 
 ## Editing and Deleting Fences:
 follow these simple steps:
 
-+ Open the Petority app and log in to your account
-+ Tap **User**> **Fence**
-+ Tap **Edit**
+1. Open the Petority app and log in to your account
+2. Tap **User**> **Fence**
+3. Tap **Edit**
     For editing, you can modify the fence's boundaries, and other parameters. Save the updated fence settings.
   
     For deletion, you can choose to remove the fence. Note that deleting a fence will also clear related data associated with it.
 
 ![Editing and Deleting](/img/logo.svg)
 
-If you don't need a fence, you can choose to turn off the fence switch.
+If you don't need a fence, you can choose to **turn off** the fence switch.
 
 ![switch](/img/logo.svg)

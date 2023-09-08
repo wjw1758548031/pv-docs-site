@@ -3,7 +3,7 @@ sidebar_position: 2
 title: General Settings
 ---
 
-**Petority offers a range of general settings that allow you to customize the app according to your preferences and needs. These settings enhance your experience in managing and caring for your pets.**
+Petority offers a range of general settings that allow you to customize the app according to your preferences and needs. These settings enhance your experience in managing and caring for your pets.
 
 Here's a comprehensive overview of the Petority general settings:
 
@@ -17,6 +17,8 @@ Customize the types of alerts you want to receive, such as Bettery warning, Abno
 
 Define how you want to receive notifications.
 
+![sound&shake](/img/logo.svg)
+
 ## 2. Unit Preferences:
 
 **Distance Units:**
@@ -27,6 +29,8 @@ Set your preferred units for distance measurement, such as kilometers or miles.
 
 Choose your preferred units for weight measurement, like kilograms or pounds.
 
+![units](/img/logo.svg)
+
 ## 3. Privacy and Security:
 **Account Security:**
 
@@ -34,19 +38,20 @@ Adjust your account security settings, including [password management](/docs/pet
 
 ### Accessing General Settings:
 ![setting](/img/logo.svg)
-+ Open the Petority App: 
+
+1. Open the Petority App: 
 
     Download and open the Petority app, and ensure you are logged into your account.
 
-+ Navigate to Settings:
+2. Navigate to Settings:
 
     Tap **User** > **Setting**
 
-+ General Settings: 
+3. General Settings: 
 
     Find the general settings category and explore the various options available.
 
-+ Adjust Settings:
+4. Adjust Settings:
 
     Customize your settings based on your preferences by toggling switches, selecting options.
 

@@ -15,7 +15,7 @@ Follow these steps to upgrade your Petority device:
 
 + Open the Petority app on your smartphone.
 + Log in to your account.
-+ Tap **Device** > **Docker settings**
++ Tap **User** > **Device**
 
 **Step 2:** Check for Available Updates
 + Tap **Upgrade** . 

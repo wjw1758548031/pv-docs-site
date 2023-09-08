@@ -18,65 +18,61 @@ title: Get to Know
 
 With the help of a strong GPS signal and reliable network coverage, you can easily track your pet's real-time location, regardless of how near or far they are from you.This feature gives you peace of mind, knowing exactly where your pet is at all times.
 
-![Map](/img/logo.svg)
+![Map](/img/get-to-know/GPS.jpg)
 
 #### Interactive Map Interface
 
 Take advantage of the interactive map to set up virtual boundaries and track your pet's movement. You can even tilt the map in 3D view for a more immersive experience.
 
-+ Use two fingers to tilt the map in 3D View!
+![update](/img/get-to-know/Map.jpg)  
 
-    ![3D View](/img/logo.svg) 
++ Use two fingers to tilt the map in 3D View!
 
 + Unlimited range and live mode updates every 10 seconds.
 
-    ![update](/img/logo.svg)  
+    It ensures you can easily pinpoint your pet's location and conveniently monitor your pet's movements in real time.
 
-It ensures you can easily pinpoint your pet's location and conveniently monitor your pet's movements in real time.
++ Location Recording
 
-#### Location Recording
+	Never worry about your pet wandering off again. Petority records your pet's movements and alerts you if they leave designated safe areas.
 
-Never worry about your pet wandering off again. Petority records your pet's movements and alerts you if they leave designated safe areas.
-
-![Click Recording](/img/logo.svg)
 
 ### 2. Exercise Monitoring and Real-time Heart Rate Tracking
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and receive alerts if any irregularities are detected, helping you spot potential health issues early on.
 
-#### Check whether they're getting sufficient exercise daily
++ Check whether they're getting sufficient exercise daily
 
-![home-step](/img/logo.svg)
++ Monitor their heart rate in real-time and proactively detect potential signs of illness
 
-![home-tracking](/img/logo.svg)
+![home-step](/img/get-to-know/Exercise-Monitoring-and-Real-time-Heart-Rate-Tracking.jpg)
 
-#### Monitor their heart rate in real-time and proactively detect potential signs of illness
-
-![home-heart](/img/logo.svg)
 
 ### [3. Track Your Pet's Physical Well-being with Daily Observation](/docs/petority/features/health-monitoring)
 Easily review your pet's health data by selecting the desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.
 
-#### Comprehensive Health Insights
+![Health](/img/get-to-know/Comprehensive-Health-Insights.gif)
 
-Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.
++ Comprehensive Health Insights
 
-![Health](/img/logo.svg)
+    Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.
 
-#### Heart Rate Indicators
 
-![Heart-DWM](/img/logo.svg)
++ Heart Rate Indicators
 
-**Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:**
+Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:
 
-+ **Normal Heart Rate** (70~120 bpm) - Green
-+ **Soothing Heart Rate** (<70 bpm) - Yellow
-+ **Fierce Heart Rate** (>120 bpm) - Red
+![Health](/img/get-to-know/Heart-Rate-Indicators.jpg)
   
-#### Track Your Pet's Steps
+| Heart Rate   | Value   | Color   |
+| ----------- | ----------- | ----------- |
+| Soothing    | <70 bpm   | Yellow |
+|  Normal     | 70~120 bpm | Green |
+| Fierce      | >120 bpm   | Red   |
 
-Keep tabs on your pet's activity levels by tracking their steps throughout the day.
++ Track Your Pet's Steps
 
-![Steps-DWM](/img/logo.svg)
+    Keep tabs on your pet's activity levels by tracking their steps throughout the day.
+
 
 ### [4. Alert](/docs/petority/features/alerts-notifications)
 #### Instant Fence Alerts
@@ -87,7 +83,9 @@ Keep tabs on your pet's activity levels by tracking their steps throughout the d
 
 + The app will provide updates every **10** seconds until your pet returns to the safe area.
 
-![fence alert](/img/logo.svg)
+![fence alert](/img/get-to-know/Instant-Fence-Alerts1.gif)
+
+![fence alert](/img/get-to-know/Instant-Fence-Alerts-2.jpg)
 
 #### Stay Updated
 

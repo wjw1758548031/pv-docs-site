@@ -12,25 +12,25 @@ In Petority, you can edit and manage your user information to ensure that your p
 
 Here are the steps to edit user information in Petority:
 
-+ Login to Your Account:
+1. Login to Your Account:
 
     Open the Petority app and log in using your account credentials.
 
-+ Access Personal Settings:
+2. Access Personal Settings:
   
     Click the **User info** option in the user page.
 
-+ Enter Edit Mode:
+3. Enter Edit Mode:
   
     In the personal settings page, locate and click on **Edit** option.
 
     This will enter the edit mode, allowing you to modify your personal information.
 
-+ Modify Profile:
+4. Modify Profile:
 
     While in edit mode, you can modify your personal details, including your **profile picture**, **nickname**, **contact information**, and more.
 
-+ Save Changes:
+5. Save Changes:
   
     After making your edits, make sure to click the **Save** button to save your modifications.
   

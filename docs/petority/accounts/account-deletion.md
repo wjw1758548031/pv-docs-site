@@ -4,21 +4,21 @@ title: Delete Account
 ---
 
 # Delete Your Account
-**To delete your Petority account, you can follow these steps:**
-+ Open the Petority app and log in to your account.
-+ Click **User** > **Settings**
-+ Click **Account security** > **Delete Account**
-+ Read Account deletion notice，click **Delete**
+To delete your Petority account, you can follow these steps:
+1. Open the Petority app and log in to your account.
+2. Click **User** > **Settings**
+3. Click **Account security** > **Delete Account**
+4. Read **Account deletion notice**，click **Delete**
 
 **Account Deletion Notice:**
 
-1. Deleting your account will result in the complete removal of all data associated with the account, and it cannot be recovered. Please proceed with caution, as once the account is deactivated successfully, it cannot be retrieved.
++ Deleting your account will result in the complete removal of all data associated with the account, and it cannot be recovered. Please proceed with caution, as once the account is deactivated successfully, it cannot be retrieved.
 
-2. After submitting the account deactivation request, the account will be taken offline and kept in a **30-day** review period. Within these 30 days, you can attempt to log in to the account to cancel the account deletion request, which will allow you to restore the account and use it normally.
++ After submitting the account deactivation request, the account will be taken offline and kept in a **30-day** review period. Within these 30 days, you can attempt to log in to the account to cancel the account deletion request, which will allow you to restore the account and use it normally.
 
     ![recover account](/img/logo.svg)
 
-3. Before proceeding with the deactivation, carefully review the information provided on the account deletion page to avoid any unintended consequences.
++ Before proceeding with the deactivation, carefully review the information provided on the account deletion page to avoid any unintended consequences.
 ## FAQs
 ### What to do if the account cannot be deleted?
 + When deactivating your account, a security verification is required. The application will send a verification code to your registered email address to ensure that the security verification is completed.

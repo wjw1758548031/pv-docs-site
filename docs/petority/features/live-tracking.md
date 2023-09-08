@@ -9,11 +9,11 @@ Petority provides advanced real-time location tracking and monitoring features t
 ![MAP](/img/logo.svg)
 
 ## How to Use:
-+ Log in to the **Petority** App:
+1. Log in to the **Petority** App:
   
     Open the **Petority** app on your Android or iOS device and **log in** to your account
   
-+ Access Real-time Tracking:
+2. Access Real-time Tracking:
   
      Tap **Home** > **Map**
   

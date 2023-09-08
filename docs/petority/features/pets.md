@@ -12,27 +12,27 @@ In Petority, you can easily **create**, **edit**, and **manage** your pets' info
 ## 1. Creating a Pet Profile:
 Here's how to create pet information in Petority:
 
-+ Open the App:
+1. Open the App:
 
     Launch the Petority app on your Android or iOS device.
 
-+ Login:
+2. Login:
 
     Log in to your Petority account if you haven't already.
 
-+ Access Pet Profile:
+3. Access Pet Profile:
   
     Tap **User** > **Pet Profile** section.
 
-+ Add a New Pet:
+4. Add a New Pet:
  
     In the pet profile section, click on **+** . This will initiate the process of adding a new pet to your profile.
 
-+ Enter Pet Details:
+5. Enter Pet Details:
   
     Provide essential information about your pet, such as its **name**, **breed**, **species**, **date of birth**, and **gender**. it also allows you to upload a photo of your pet.
 
-+ Save Changes:
+6. Save Changes:
 
     Once you've filled in the necessary information, save the changes to create the new pet profile.
 
@@ -42,52 +42,52 @@ Here's how to create pet information in Petority:
 
 To edit pet information in Petority, follow these steps:
 
-+ Open the App:
+1. Open the App:
 
     Launch the Petority app and log in to your account.
   
-+ Access Pet Profile: 
+2. Access Pet Profile: 
 
    Tap **User** > **Pet info** section .
 
-+ Select Pet: 
+3. Select Pet: 
 
      Click on the pet you wish to edit. This will take you to the detailed profile page of the selected pet.
 
-+ Edit Mode: 
+4. Edit Mode: 
 
     Look for an **Edit** button on the pet's profile page. Click on it to enter the edit mode.
 
-+ Modify Details:
+5. Modify Details:
  
     While in edit mode, you can modify various aspects of your pet's information, such as **name**, **breed**, **birthdate**, and more. 
 
-+ Save Changes: 
+6. Save Changes: 
 
     After making the necessary changes, click **Save** to save the modifications to your pet's profile.
 
 ## 3. Deleting a Pet Profile:
-+ Open the App:
+1. Open the App:
 
     Launch the Petority app and log in to your account.
 
-+ Access Pet Profile: 
+2. Access Pet Profile: 
 
    Tap **User** > **Pet info** section .
 
-+ Select Pet: 
+3. Select Pet: 
 
      Click on the pet profile you want to delete.
 
-+ Delete Pet:
+4. Delete Pet:
 
     Click on **delete** to initiate the deletion process.
 
-+ Confirm Deletion:
+5. Confirm Deletion:
 
     Confirm your decision to delete the pet profile.
 
-+ Completion:
+6. Completion:
 
     Once confirmed, the pet profile and associated data will be permanently deleted from your Petority account.
 

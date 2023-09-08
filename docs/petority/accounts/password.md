@@ -5,10 +5,10 @@ title: Password Reset
 
 **If you forget the password for the application, you can try the following solutions:**
 
-+ On the login page, click the **Forgot passwor** button.
-+ Click **Get code**, a verification email will be sent to the email address you provided.
-+ Check your inbox and complete the account verification.
-+ Set a **new password** for your account.
+1. On the login page, click the **Forgot password** button.
+2. Click **Get code**, a verification email will be sent to the email address you provided.
+3. Check your inbox and complete the account verification.
+4. Set a **new password** for your account.
 
 Your password will be successfully reset using this process.
 
@@ -16,11 +16,11 @@ Your password will be successfully reset using this process.
 
 **If you realize that you have forgotten your password while using the app:**
 
-+ Tap **User** > **Account security**.
-+ Click on **Password reset**.
-+ Click **Get code**, a verification email will be sent to the email address you've provided.
-+ Check your inbox and complete the account verification.
-+ Set a new password for your account.
+1. Tap **User** > **Account security**.
+2. Click on **Password reset**.
+3. Click **Get code**, a verification email will be sent to the email address you've provided.
+4. Check your inbox and complete the account verification.
+5. Set a new password for your account.
 
 By following these steps, you'll be able to successfully reset your password and regain access to your account.
 

@@ -93,23 +93,23 @@ The Petority tag can emit sound effects to attract your pet's attention or remin
 If sound effects are enabled, you can choose from different types of sounds. Choose sound types that match your pet's characteristics and preferences.
 
 ### 3. Accessing Tag Light and Sound Settings:
-+ Open the Petority App: 
+1. Open the Petority App: 
 
     Download and open the Petority app, ensuring that you are logged into your account.
 
-+ Select the Tag: 
+2. Select the Tag: 
 
     Access the list of Tag associated with your pet.
 
-+ Pet Tag Settings:
+3. Pet Tag Settings:
 
     Tap **Device** > **Tag settings**
 
-+ Adjust Settings: 
+4. Adjust Settings: 
 
     Based on your preferences and needs, enable/disable pet tag light and sound settings.
 
-### Note:
+### Tips:
 + Choose sound effects and light settings that match your pet's personality and habits.
 + Use sound effects appropriately to avoid unnecessary disturbances, considering the time and environment.
 + When using the pet tag light in low-light conditions, ensure it doesn't hinder your pet's visibility or activities.
