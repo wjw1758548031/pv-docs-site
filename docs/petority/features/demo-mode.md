@@ -8,7 +8,7 @@ title: Petority's Demo Mode
 Petority's **Demo Mode** is a specialized feature that allows users **to experience the application's functionalities using simulated data, without the need for actual devices**. 
 This feature proves highly beneficial for new or prospective users, as it provides an opportunity to explore the application's interface, features, and workflow before committing to actual device usage.
 
-![demo](/img/logo.svg)
+![demo](/img/01.jpg)
 
 ## What is Demo Mode?
 
@@ -47,7 +47,7 @@ This simulation helps users better understand how the application's features ope
 
 If you're ready to transition from Demo Mode to the full functionality of the app with actual Petority devices, here's how you can do it:
 
-+ Pairing Your Device, see：Device Pairing
++ Pairing Your Device, see：[Device Pairing](docs/petority/features/devices/device-pairing)
 
     Once the verification is successful, your Petority device is now bound to your account. You will now have access to all the real-time tracking, health monitoring, and other features offered by Petority.
 

@@ -40,8 +40,6 @@ Here are the steps to edit user information in Petority:
 
 ![userinfo](/img/logo.svg)
 
-![detail](/img/logo.svg)
-
 Once saved, your updated personal information will be reflected in your Petority account. You can view the updated information on the personal settings page.
 
 ## Considerations:
