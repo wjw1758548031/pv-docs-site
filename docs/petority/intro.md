@@ -94,7 +94,7 @@ Petority keeps you in the loop by providing real-time alerts about your pet's ba
 This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy.Experience the convenience and peace of mind that Petority brings to pet ownership.
 
 <html>
-<div style="background-color: lightgray; padding: 10px;">
+<div style="background-color: lightgray; padding: 10+'px';">
   <p>这是一个带有背景颜色的<div>HTML块</div></p>
 </div>
 
