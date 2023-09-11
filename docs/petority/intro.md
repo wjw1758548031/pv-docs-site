@@ -67,7 +67,7 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
   
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
-| Soothing    | <70 bpm   | Yellow |
+| Soothing    | <70 bpm   | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal     | 70~120 bpm | Green |
 | Fierce      | >120 bpm   | Red   |
 
