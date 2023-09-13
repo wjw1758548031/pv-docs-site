@@ -51,7 +51,7 @@ Easily review your pet's health data by selecting the desired time frame. You ca
     Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.
 
 + Heart Rate Indicators
-Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:
+    Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:
 
 ![Health](/img/get-to-know/Heart-Rate-Indicators.jpg)
 
