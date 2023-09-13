@@ -16,7 +16,7 @@ To start tracking your pet, you'll need to create a Petority account.
 4. Click the **Create account** button.
 5. A **verification email** will be sent to the email address you provided. Check your inbox and complete the account verification.
 
-![Update email](/img/Email.gif)
+![Update email](/img/manage-account/Email.gif)
 
 Once verified, you can use your new account to log in to the Petority app and start accessing its features.
 

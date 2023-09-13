@@ -5,7 +5,7 @@ title: Your Profile
 
 **Petority is an intelligent application designed for pet owners, aimed at helping you better manage and care for your pets.**
 
-![Userinfo](/img/User-info.gif)
+![Userinfo](/img/manage-account/User-info.gif)
 
 ## Editing your profile
 In Petority, you can edit and manage your user information to ensure that your profile is accurate and linked to your pet data.
@@ -42,10 +42,7 @@ Once saved, your updated personal information will be reflected in your Petority
 
 ## Considerations:
 + When editing your personal information, ensure that you use accurate and truthful details to maintain the correct association.
-
 + Certain information may be mandatory fields, such as email address and password. Make sure you provide accurate information.
-
 + If you have any questions or encounter issues, you can consult Petority's official support or customer service for more detailed assistance and guidance.
-
 + By editing and managing your user information, you can ensure that your Petority account remains up-to-date and accurate, allowing you to better manage and care for your pets.
    

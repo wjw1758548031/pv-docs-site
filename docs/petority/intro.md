@@ -68,7 +68,6 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 
 <<<<<<< HEAD
 =======
-![Health](/img/get-to-know/Excel.jpg)
   
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |

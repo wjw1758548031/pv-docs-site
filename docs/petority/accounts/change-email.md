@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Change Email
 ---
 
-![Update email](/img/Change-Email.gif)
+![Update email](/img/manage-account/Change-Email.gif)
 
 To Change the email of your account, follow these steps:
 
