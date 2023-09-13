@@ -9,7 +9,6 @@ The Petority fence feature allows you to establish virtual boundaries for your p
 ![fence-map](/img/logo.svg)
 
 ## Set up a Fence
-
 Would you like to be alerted when your pet either leaves or enters a certain area, such as your home or a local park? If so, you can set up a Fence, which is a perimeter that defines a safe area for your pet to be in. 
 
 ![fence edit](/img/logo.svg)
