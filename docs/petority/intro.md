@@ -11,6 +11,7 @@ Petority is your ultimate companion for keeping a watchful eye on your beloved p
 
 + iPhone, iPad with iOS **11** or above.
 + Android devices with operating system **7.0** and above (Google Play Services required).
+
 ## App features:
 This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.
 
