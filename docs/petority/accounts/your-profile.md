@@ -10,7 +10,6 @@ Petority is an intelligent application designed for pet owners, aimed at helping
 ## Editing your profile
 Here are the steps to edit user information in Petority:
 1. Login to Your Account:
-
     Open the Petority app and log in using your account credentials.
 2. Access Personal Settings:
 
