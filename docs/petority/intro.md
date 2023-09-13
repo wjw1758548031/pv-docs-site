@@ -66,6 +66,17 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 
 ![Health](/img/get-to-know/Heart-Rate-Indicators.jpg)
 
+<<<<<<< HEAD
+=======
+![Health](/img/get-to-know/Excel.jpg)
+  
+| Heart Rate   | Value   | Color   |
+| ----------- | ----------- | ----------- |
+|  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
+| Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+
+>>>>>>> b1e086a2584f100df36b4d8ac2b2987d6055cb7d
 ### [4. Alert](/docs/petority/features/alerts-notifications)
 #### Instant Fence Alerts
 
