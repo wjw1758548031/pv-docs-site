@@ -20,15 +20,12 @@ By following a few simple steps, you can access a wealth of information right at
 + Open the Petority App:
   
   Whether you're using an Android or iOS device, launch the Petority app to get started.
-
 + Navigate to the Health Tab:
 
   Within the app's user-friendly interface, locate and tap on the Health tab.
-  
 + Select Your Pet:
 
   If you have multiple Petority devices for different pets, easily choose **the specific pet** you wish to track.
-
 + Review Health Data History:
 
   With the pet selected, you can now choose the desired time frame for reviewing their health data history.
@@ -72,7 +69,7 @@ Check whether they're getting sufficient exercise daily.
 | Sates| Color   |
 | ----------- | ----------- |
 |  Tracking    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| Untracking |  <li style={{ "color": "#C1C5C9" }}><span style={{ "color": "#000" }}>Grey</li> |
+| Untracking |  <li style={{ "color": "#C1C5C9" }}><span style={{ "color": "#000" }}>Grey</span></li> |
 
 Petority's Health Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and health. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
 
