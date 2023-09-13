@@ -21,7 +21,7 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
 
     Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by Petority.
 
-![login-update](/img/logo.svg)
+![login-update](/img/manage-account/Password-reset1.gif)
 
 ## Resetting Your Password from Within the App:
 1. Access Account Security:
@@ -40,7 +40,7 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
 
     Once verified, you can set a new password for your account, ensuring it meets the necessary security criteria.
 
-    ![user update](/img/logo.svg)
+    ![user update](/img/manage-account/Password-Reset2.gif)
 
 ## FAQs
 **Not Receiving the Verification Code?**
