@@ -4,7 +4,6 @@ title: Docker & Tag
 ---
 
 # Docker & Tag Information 
-
 Petority offers a range of innovative devices designed to help you track and care for your beloved pets.
 
 ![device picture](/img/logo.svg)
@@ -33,7 +32,6 @@ Monitor the battery status of your device to ensure it's always operational.
 View the signal strength of the device's connection to ensure reliable communication.
 
 ## [Docker & Tag Settings](/docs/petority/features/devices/devices-settings)
-
 **Location Tracking:**
 
 Enable real-time location tracking to monitor your pet's movements and ensure their safety.
@@ -57,20 +55,21 @@ Keep your device up to date with the latest features and improvements by perform
 ## How to Access Device Information and Settings:
 
 1. Open the Petority App: 
+
     Download and launch the Petority app on your smartphone.
-
 2. Device List: 
+
     Tap **User** > **Device**
-
 3. Select Device: 
+
     Choose the specific device you want to manage.
+4.  Device Details:
 
-4.  Device Details: 
     View essential information about the device, such as battery level and signal strength.
-
 5.  Device Settings:
-    Tap **setting** section to configure various options based on your pet's needs.
 
+    Tap **setting** section to configure various options based on your pet's needs.
+    
 ## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
 + Keep the device connected to WiFi for seamless data synchronization and updates.

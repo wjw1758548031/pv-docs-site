@@ -39,7 +39,6 @@ By clicking on the alert notification, you can view detailed information about y
 
 ## Editing and Deleting Fences:
 follow these simple steps:
-
 1. Open the Petority app and log in to your account
 2. Tap **User**> **Fence**
 3. Tap **Edit**

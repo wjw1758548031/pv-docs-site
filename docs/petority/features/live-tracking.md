@@ -12,11 +12,10 @@ Petority provides advanced real-time location tracking and monitoring features t
 1. Log in to the **Petority** App:
   
     Open the **Petority** app on your Android or iOS device and **log in** to your account
-  
 2. Access Real-time Tracking:
   
      Tap **Home** > **Map**
-  
+
 ## Key Features:
 In the Petority app, your current location will be automatically displayed to you alongside your pet's position whenever your smartphone has GPS or location services enabled. Once you're in the **Map** page, you'll be able to see both **you and your pets' current location** on a map
 
@@ -29,17 +28,19 @@ The map will display your pets' movement in real-time, allowing you to track the
 **Benefits:**
 
 + Live Location Updates: 
-    Petority offers continuous real-time updates on your pets' locations, allowing you to stay informed about their movements.
 
+    Petority offers continuous real-time updates on your pets' locations, allowing you to stay informed about their movements.
 + Immediate Alerts: 
+
     If your pets leave a designated safe zone, you'll receive instant **alerts** on your app, ensuring you can react promptly.
 
     ![fence alert](/img/logo.svg)
 
 + Enhanced Safety:
-    Whether you're at home or away, you can have peace of mind knowing that you can track your pets and ensure their safety.
 
+    Whether you're at home or away, you can have peace of mind knowing that you can track your pets and ensure their safety.
 + Customizable Settings:
+
     Adjust tracking parameters based on your preferences and needs, such as the frequency of location updates.
 
 **Note:** 
@@ -47,7 +48,6 @@ The map will display your pets' movement in real-time, allowing you to track the
 > Make sure your device has a stable internet connection and access to GPS signals for accurate and reliable tracking.
 
 ### 2. Call Your Pet
-
 Petority offers an intelligent **Auto Recall** feature designed to make recalling and controlling your pets easier. No matter where you are, with a simple operation, you can establish a real-time voice connection with your pets to ensure their safe return.
 
 ![recall](/img/logo.svg)
@@ -57,18 +57,19 @@ When you need to recall your pet, simply tap the appropriate button to establish
 **Benefits:**
 
 + Instant Connection:
+
     Through the Auto Recall feature, you can establish an immediate voice connection with your pets, ensuring they hear your voice and respond.
-
 + Safe Recall:
+
     Recall your pets remotely no matter where you are to ensure their safe return.
-
 + Emergency Situations:
+
     In urgent situations, such as when your pet is lost or in danger, you can convey emergency commands to your pet through the Auto Recall feature.
-
 + Interactive with Pets:
-    Beyond recall, you can also interact with your pets to soothe their emotions.
 
+    Beyond recall, you can also interact with your pets to soothe their emotions.
 + Convenient Usage:
+
     The interface of the Auto Recall feature is user-friendly, allowing for easy operation.
 
 In Petority, you have the flexibility to choose which pets' locations are displayed on the Map page.This feature allows you to focus on specific pets' movements and track them with ease.
@@ -80,15 +81,12 @@ In Petority, you have the flexibility to choose which pets' locations are displa
 + Focused Tracking:
 
     By choosing specific pets to display on the Map, you can focus on their movements without being overwhelmed by the locations of all your pets.
-
 + Quick Overview:
 
     This feature provides a quick overview of the selected pets' whereabouts, making it easier to keep track of them.
-
 + Customized Monitoring:
 
     If you have multiple pets but are primarily concerned about one or a few, this setting allows you to customize your monitoring experience.
-
 + Reduced Clutter:
 
     Displaying only the selected pets reduces clutter on the Map, enhancing the clarity of the information.

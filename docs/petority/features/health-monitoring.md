@@ -59,20 +59,20 @@ By having access to their heart rate data, you can promptly detect any irregular
  
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
-| Soothing    | <70 bpm   | Yellow |
-|  Normal     | 70~120 bpm | Green |
-| Fierce      | >120 bpm   | Red   |
+|  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
+| Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 
 ### Tracking
-
 Check whether they're getting sufficient exercise daily.
 
 ![tracking](/img/logo.svg)
 
-+ Tracking：Green
-  
-+ Untracking ：Grey
+| Sates| Color   |
+| ----------- | ----------- |
+|  Tracking    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| Untracking |  <li style={{ "color": "#C1C5C9" }}><span style={{ "color": "#000" }}>Grey</li> |
 
 Petority's Health Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and health. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
 
