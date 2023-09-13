@@ -15,7 +15,6 @@ title: Get to Know
 **This app offers a range of cutting-edge features that ensure the health, safety, and happiness of your furry friends.**
 
 ### [1. Real-time Location Tracking and Monitoring](/docs/petority/features/live-tracking)
-
 With the help of a strong GPS signal and reliable network coverage, you can easily track your pet's real-time location, regardless of how near or far they are from you.This feature gives you peace of mind, knowing exactly where your pet is at all times.
 
 ![Map](/img/get-to-know/GPS.jpg)
@@ -44,6 +43,10 @@ Ensure your pet's health by monitoring their daily exercise routines. Track thei
 
 + Monitor their heart rate in real-time and proactively detect potential signs of illness
 
++ Track Your Pet's Steps
+
+    Keep tabs on your pet's activity levels by tracking their steps throughout the day.
+
 ![home-step](/img/get-to-know/Exercise-Monitoring-and-Real-time-Heart-Rate-Tracking.jpg)
 
 
@@ -63,19 +66,6 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 
 ![Health](/img/get-to-know/Heart-Rate-Indicators.jpg)
 
-![Health](/img/get-to-know/Excel.jpg)
-  
-| Heart Rate   | Value   | Color   |
-| ----------- | ----------- | ----------- |
-| Soothing    | <70 bpm   | Yellow |
-|  Normal     | 70~120 bpm | Green |
-| Fierce      | >120 bpm   | Red   |
-
-+ Track Your Pet's Steps
-
-    Keep tabs on your pet's activity levels by tracking their steps throughout the day.
-
-
 ### [4. Alert](/docs/petority/features/alerts-notifications)
 #### Instant Fence Alerts
 
@@ -85,9 +75,7 @@ Monitor your pet's heart rate with ease. Petority provides visual cues for diffe
 
 + The app will provide updates every **10** seconds until your pet returns to the safe area.
 
-![fence alert](/img/get-to-know/Instant-Fence-Alerts1.gif)
-
-![fence alert](/img/get-to-know/Instant-Fence-Alerts-2.jpg)
+![fence alert](/img/get-to-know/Instant-Fence-Alerts.jpg)
 
 #### Stay Updated
 

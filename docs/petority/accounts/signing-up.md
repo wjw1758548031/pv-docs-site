@@ -7,8 +7,6 @@ title: Create a Petority Account
 
 **Welcome to Petority!**
 
-![welcome page](/img/logo.svg)
-
 To start tracking your pet, you'll need to create a Petority account.
  
 ## Create an account with an email
@@ -18,7 +16,7 @@ To start tracking your pet, you'll need to create a Petority account.
 4. Click the **Create account** button.
 5. A **verification email** will be sent to the email address you provided. Check your inbox and complete the account verification.
 
-![Emai](/img/manage-account/create-account.gif)
+![Update email](/img/Email.gif)
 
 Once verified, you can use your new account to log in to the Petority app and start accessing its features.
 
@@ -41,13 +39,13 @@ Once these steps are completed, you can use your third-party account to log in t
 
 ## FAQs
 ### Account creation failed
-1.When creating an account using an email, please select an email address that has not been registered with the Petority App before.
+1. When creating an account using an email, please select an email address that has not been registered with the Petority App before.
 
-2.If you find that the email address you are trying to use has already been registered with another account, please try using a different email address for registration or go through the password reset process if you believe you have an existing account.
+2. If you find that the email address you are trying to use has already been registered with another account, please try using a different email address for registration or go through the password reset process if you believe you have an existing account.
 
-3.Ensure that the username and password you enter meet the requirements, such as length, character types, etc. Double-check for any input errors or omissions.
+3. Ensure that the username and password you enter meet the requirements, such as length, character types, etc. Double-check for any input errors or omissions.
 
-4.When using third-party login for the Petority App, you will need to authorize the third-party provider to access your account information.
+4. When using third-party login for the Petority App, you will need to authorize the third-party provider to access your account information.
 
 If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue.
 

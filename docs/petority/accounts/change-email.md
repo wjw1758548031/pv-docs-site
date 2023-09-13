@@ -3,6 +3,8 @@ sidebar_position: 3
 title: Change Email
 ---
 
+![Update email](/img/Change-Email.gif)
+
 To Change the email of your account, follow these steps:
 
 1. Open the Petority app and **log in** to your account.
@@ -14,7 +16,5 @@ To Change the email of your account, follow these steps:
 7. Check your inbox and complete the account verification.
 
 Your account's email address will be successfully updated to the new one you've provided.
-
-![Update email](/img/logo.svg)
 
 
