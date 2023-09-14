@@ -17,11 +17,11 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Pair the Device:
 
-    Follow the instructions provided in the app to **[pair your Petority device](/docs/petority/device/device-pairing)** with your account. 
+    Follow the instructions provided in the app to **[pair your Petority device](/docs/petority/devices/device-pairing)** with your account. 
 
 + Charge the Device:
 
-    If your device needs [charging](/docs/device/battery-charging/battery-charging), make sure to do so **using the provided charger and cable**. This will ensure that your device has sufficient power for tracking.
+    If your device needs [charging](/docs/devices/battery-charging/battery-charging), make sure to do so **using the provided charger and cable**. This will ensure that your device has sufficient power for tracking.
 
 + Configure Settings:
 
@@ -37,7 +37,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Explore Features:
 
-    Take some time to explore the app's features. You can track your pet's [real-time location](/docs/petority/featyres/live-tracking), view [historical data](/docs/petority/featyres/health-monitoring), and even [set up personalized routines](/docs/petority/features/fence#set-up-a-fence).
+    Take some time to explore the app's features. You can track your pet's [real-time location](/docs/petority/features/live-tracking), view [historical data](/docs/petority/features/health-monitoring), and even [set up personalized routines](/docs/petority/features/fence#set-up-a-fence).
 
 + Keep It Updated:
 
