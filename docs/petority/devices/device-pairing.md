@@ -44,9 +44,9 @@ Once the app successfully detects your device and establishes a connection, conf
 
 **Troubleshooting:**
 
-[What to do if the device cannot be scanned？](/docs/petority/features/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
+[What to do if the device cannot be scanned？](/docs/petority/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
 
-[What to do if pairing fails？](/docs/petority/features/devices/FAQs#1what-to-do-if-pairing-fails)
+[What to do if pairing fails？](/docs/petority/devices/FAQs#1what-to-do-if-pairing-fails)
 
 ## WiFi Configuration:
 After pairing, navigate to the WiFi configuration section within the app. Make sure the WiFi is set to the **2.4GHz** frequency band. 
@@ -65,11 +65,11 @@ After pairing, navigate to the WiFi configuration section within the app. Make s
 
 With your device successfully paired and WiFi configured, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
 
-[What to do if the network configuration fails?](/docs/petority/features/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
+[What to do if the network configuration fails?](/docs/petority/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
 
 ## Pet Association:
 ![choose pet](/img/logo.svg)
-1. Choose the pet you want to associate or [create a Pet Profile](/docs/petority/features/pets#1-creating-a-pet-profile)
+1. Choose the pet you want to associate or [create a Pet Profile](/docs/petority/devices/pets#1-creating-a-pet-profile)
 2. Link the bound Petority device to your pet to ensure their data corresponds to the device.
 
 After association, you'll be able to see the connection status and data of your pet and device in the app.

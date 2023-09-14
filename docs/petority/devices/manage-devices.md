@@ -31,7 +31,7 @@ Monitor the battery status of your device to ensure it's always operational.
 
 View the signal strength of the device's connection to ensure reliable communication.
 
-## [Docker & Tag Settings](/docs/petority/features/devices/devices-settings)
+## [Docker & Tag Settings](/docs/petority/devices/devices-settings)
 **Location Tracking:**
 
 Enable real-time location tracking to monitor your pet's movements and ensure their safety.
@@ -44,11 +44,11 @@ Set up virtual boundaries to receive alerts when your pet enters or leaves speci
 
 Access vital health information, such as heart rate and activity levels, to proactively manage your pet's well-being.
 
-**[WiFi Configuration:](/docs/petority/features/devices/devices-settings#1-configuring-wifi-connection)**
+**[WiFi Configuration:](/docs/petority/devices/devices-settings#1-configuring-wifi-connection)**
 
 Connect your device to WiFi for seamless data synchronization and enhanced functionality.
 
-**[Firmware Updates:](/docs/petority/features/devices/upgrade-firmware)**
+**[Firmware Updates:](/docs/petority/devices/upgrade-firmware)**
 
 Keep your device up to date with the latest features and improvements by performing firmware updates.
 
