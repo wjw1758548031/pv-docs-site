@@ -4,7 +4,6 @@ title: Health Monitoring
 ---
 
 # Tracking Your Pet's Well-being with Petority's Health Feature
-
 Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being.Among its standout capabilities is the **comprehensive health data detection** and **location history tracking functionality**. 
 
 ![Health](/img/logo.svg)
