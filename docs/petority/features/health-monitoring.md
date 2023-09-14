@@ -42,7 +42,6 @@ With Petority's Health Data and Location History feature, you gain a comprehensi
 It allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
 
 ### Heart Rate Monitoring:
-
 Keeping an eye on your pet's heart health is crucial. This feature empowers you to closely monitor their heart rate in real-time. 
 
   ![Heart](/img/logo.svg)
