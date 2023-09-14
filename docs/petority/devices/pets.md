@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Managing Pet's Profile
+title: Pet's Profile
 ---
 
 # Managing Your Pet's Profile on Petority App

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Docker & Tag
+title: Device Information
 ---
 
 # Docker & Tag Information 

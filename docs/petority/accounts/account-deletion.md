@@ -6,7 +6,7 @@ title: Delete Account
 # Delete Your Account
 Sometimes, you may decide to part ways with your Petority account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions.
 
-![delete account](/img/logo.svg)
+![delete account](/img/manage-account/Delete-Account.gif)
 
 To delete your Petority account, you can follow these steps:
 1. Open the Petority App and Log In:

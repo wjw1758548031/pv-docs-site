@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: Charging Docker & Tag
+title: Charging Docker and Tag
 --- 
 
-# Charging Docker & Tag
+# Charging Docker and Tag
 To charge or activate your tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity.
 
 ![charge](/img/logo.svg)
@@ -40,13 +40,11 @@ The Docker is equipped with an LED indicator light that displays the charging st
 
 Charging Status Indicator Colors:
 
-| Charging Status      | Color |
+| Charging Status      | Lingh Color |
 | ----------- | ----------- |
-| Battery Low      | Title       |
-| Battery Medium to High   | Text        |
-| Fully Charged   | Text        |
-| Charging Complete  | Text        |
-
+| Battery Low | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>       |
+| Charging | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Orange</span></li>        |
+| Charging Complete | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   |
 
 **Tips:**
 + Keep an eye on the indicator colors and patterns to understand the charging progress and status.

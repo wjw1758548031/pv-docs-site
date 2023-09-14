@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: Tracking Range of Petority
+sidebar_position: 5
+title: Tracking Range
 ---
 
 # How Far Can It Track My Dog?

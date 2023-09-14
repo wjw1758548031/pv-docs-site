@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Password Reset
+title: Reset Password
 ---
 
 Forgetting your Petority account password doesn't have to be a headache. This guide outlines the straightforward steps to reset your password and regain access to your account.

@@ -6,7 +6,7 @@ title: LIVE Tracking
 # Real-time Location Tracking and Monitoring
 Petority provides advanced real-time location tracking and monitoring features to ensure the safety and well-being of your beloved pets.With this functionality, you can keep a close eye on your pets' whereabouts and activities, making sure they are always safe and accounted for.
 
-![MAP](/img/logo.svg)
+![MAP](/img/map/Map.jpg)
 
 ## How to Use:
 1. Log in to the **Petority** App:
@@ -21,7 +21,7 @@ In the Petority app, your current location will be automatically displayed to yo
 
 ### 1. Monitor Movement
 
-![realtime tracking](/img/logo.svg)
+![realtime tracking](/img/map/activities.jpg)
 
 The map will display your pets' movement in real-time, allowing you to track their path and activities.
 
@@ -34,7 +34,7 @@ The map will display your pets' movement in real-time, allowing you to track the
 
     If your pets leave a designated safe zone, you'll receive instant **alerts** on your app, ensuring you can react promptly.
 
-    ![fence alert](/img/logo.svg)
+    ![fence alert](/img/map/Instant-Fence-Alerts.jpg)
 
 + Enhanced Safety:
 
@@ -50,7 +50,7 @@ The map will display your pets' movement in real-time, allowing you to track the
 ### 2. Call Your Pet
 Petority offers an intelligent **Auto Recall** feature designed to make recalling and controlling your pets easier. No matter where you are, with a simple operation, you can establish a real-time voice connection with your pets to ensure their safe return.
 
-![recall](/img/logo.svg)
+![recall](/img/map/Auto-Recall.jpg)
 
 When you need to recall your pet, simply tap the appropriate button to establish a voice call with your pet through the app
 

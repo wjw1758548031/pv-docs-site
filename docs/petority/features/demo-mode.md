@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Petority's Demo Mode
+title: Demo Mode
 ---
 
 # Petority's Demo Mode

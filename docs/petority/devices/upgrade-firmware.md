@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Upgrade Device Firmware
+title: Upgrade Firmware
 ---
 
 ## Upgrading Your Petority Docker or Tag

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Docker & Tag Settings
+title: Device Settings
 ---
 
 ## General Settings

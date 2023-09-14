@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 title: Battery Duration
 ---
 
-# How Long Does the Petority Docker & Tag Battery Last?
+# How Long Does the Petority Docker and Tag Battery Last?
 
 With the right configuration, your Petority Devices can go months in between charges.
 
